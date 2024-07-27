@@ -1,0 +1,5 @@
+Santos:SP
+Corinthians:SP
+Vasco:RJ
+Coritiba:PR
+Palmeiras:SP

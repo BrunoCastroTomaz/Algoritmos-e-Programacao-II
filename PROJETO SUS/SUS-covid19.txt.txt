@@ -1,0 +1,1573 @@
+sintomas;profissionalSaude;estadoTeste;tipoTeste;resultadoTeste;sexo;estado;municipio;idade
+Tosse, Outros;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;Tremembé;52
+Dor de Garganta;Não;Exame Não Solicitado;null;null;Feminino;SÃO PAULO;Várzea Paulista;38
+Dor de Cabeça, Dor de Garganta, Febre, Tosse, Coriza;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Santana de Parnaíba;21
+Tosse;Não;Coletado;null;null;Masculino;SÃO PAULO;São Paulo;28
+Tosse, Dor de Cabeça, Outros;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Jacareí;49
+Dispneia;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;São Paulo;53
+Tosse, Dor de Cabeça, Outros;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;São Paulo;28
+Tosse, Febre, Dor de Cabeça;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Positivo;Feminino;SÃO PAULO;Avaré;72
+Febre, Tosse, Outros, Dor de Cabeça;Não;Concluído;RT-PCR;Positivo;Feminino;SÃO PAULO;São Vicente;69
+Assintomático;Não;Concluído;RT-PCR;Positivo;Masculino;RIO DE JANEIRO;Nova Iguaçu;52
+Assintomático;Não;Concluído;null;null;Masculino;SÃO PAULO;Mogi Guaçu;67
+Assintomático;Não;Concluído;null;null;Masculino;SÃO PAULO;São Caetano do Sul;14
+Tosse, Dor de Cabeça;Não;Exame Não Solicitado;null;null;Feminino;SÃO PAULO;São Paulo;34
+Dor de Garganta, Dor de Cabeça, Outros;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;Dracena;42
+Dispneia, Tosse, Coriza, Dor de Cabeça;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Arujá;58
+Dor de Garganta, Dor de Cabeça;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;Jacareí;29
+Febre, Tosse, Dor de Cabeça;Não;Concluído;RT-PCR;Positivo;Feminino;SÃO PAULO;São Paulo;25
+Febre, Tosse;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;Severínia;45
+Dor de Garganta, Dor de Cabeça;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;São Paulo;41
+Tosse;Não;Concluído;TESTE RÁPIDO - ANTÍGENO;Positivo;Feminino;SÃO PAULO;Tupã;37
+Dor de Garganta, Coriza, Distúrbios Gustativos, Distúrbios Olfativos;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;Lorena;45
+Febre, Tosse, Dor de Cabeça, Dor de Garganta;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Campinas;20
+Tosse;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;São Paulo;28
+Dor de Garganta, Febre, Tosse, Dor de Cabeça;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;Campinas;20
+Outros;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Mogi das Cruzes;40
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTÍGENO;Negativo;Feminino;SÃO PAULO;São Paulo;30
+Dor de Cabeça, Outros, Febre;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;São Paulo;68
+Tosse, Dor de Garganta;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;São Paulo;26
+Dor de Garganta, Tosse, Dispneia, Outros;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Paranapanema;14
+Dor de Garganta, Outros;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;Piraju;23
+Assintomático;Sim;Coletado;RT-PCR;null;Feminino;SÃO PAULO;Areiópolis;27
+Tosse, Dor de Cabeça, Outros, Coriza;Não;Solicitado;RT-PCR;null;Feminino;SÃO PAULO;Campinas;82
+Dor de Cabeça, Distúrbios Gustativos;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Positivo;Feminino;SÃO PAULO;Guariba;50
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;São Roque;19
+Tosse;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;São Paulo;34
+Febre;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;São Paulo;26
+Coriza, Dor de Cabeça;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;Catanduva;60
+Tosse, Coriza, Outros, Dor de Cabeça;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;São Paulo;24
+Dor de Garganta, Febre, Tosse, Dor de Cabeça, Coriza, Outros;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;São Paulo;55
+Tosse, Dor de Garganta, Coriza, Outros, Dor de Cabeça;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;São Paulo;27
+Dor de Garganta, Tosse;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;São Paulo;41
+Assintomático;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;Arujá;43
+Tosse, Dor de Garganta, Dor de Cabeça, Outros;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;São Paulo;31
+Febre, Dor de Garganta, Dor de Cabeça, Outros;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;São José do Rio Pardo;29
+Dispneia, Febre, Tosse, Outros, Dor de Cabeça, Distúrbios Gustativos, Distúrbios Olfativos, Coriza;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Masculino;SÃO PAULO;Ribeirão Preto;69
+Febre, Outros, Coriza, Distúrbios Gustativos;Não;Concluído;RT-PCR;Positivo;Masculino;SÃO PAULO;São Paulo;57
+Dor de Garganta, Outros, Dor de Cabeça, Distúrbios Gustativos, Coriza;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Uchoa;12
+Coriza;Não;Concluído;TESTE RÁPIDO - ANTÍGENO;Negativo;Masculino;RIO DE JANEIRO;Rio de Janeiro;12
+Febre, Tosse, Distúrbios Gustativos, Distúrbios Olfativos, Outros;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;São Bernardo do Campo;25
+Dor de Garganta;Sim;Coletado;RT-PCR;null;Feminino;SÃO PAULO;São Paulo;44
+Tosse;Não;null;null;null;Masculino;SÃO PAULO;Pedreira;40
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Positivo;Feminino;SÃO PAULO;Guaíra;35
+Dor de Garganta, Tosse;Não;Concluído;TESTE RÁPIDO - ANTÍGENO;Positivo;Feminino;SÃO PAULO;Sorocaba;45
+Febre, Tosse, Outros;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;São Paulo;41
+Febre, Outros;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Diadema;34
+Tosse, Coriza, Dor de Cabeça, Dor de Garganta, Outros;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;São Paulo;41
+Tosse, Coriza, Dor de Cabeça;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;José Bonifácio;76
+Febre, Tosse, Outros, Dor de Cabeça;Não;Concluído;RT-PCR;Positivo;Masculino;SÃO PAULO;São Paulo;65
+Outros;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Mogi das Cruzes;8
+Tosse, Febre, Outros;Não;Concluído;RT-PCR;Positivo;Masculino;SÃO PAULO;São Paulo;26
+Tosse, Dor de Cabeça;Não;Concluído;TESTE RÁPIDO - ANTÍGENO;Positivo;Masculino;SÃO PAULO;Salto de Pirapora;70
+Outros, Assintomático;Não;Concluído;RT-PCR;Positivo;Feminino;SÃO PAULO;Ibitinga;37
+Assintomático;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Campinas;41
+Febre;Não;Concluído;RT-PCR;Positivo;Masculino;SÃO PAULO;Vinhedo;2
+Dor de Garganta, Tosse, Dor de Cabeça, Coriza;Não;Concluído;RT-PCR;Positivo;Feminino;SÃO PAULO;Caçapava;33
+Febre, Tosse, Dor de Cabeça;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;São Paulo;50
+Dor de Garganta, Dor de Cabeça, Coriza;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;Altair;38
+Outros, Tosse, Coriza, Distúrbios Olfativos, Distúrbios Gustativos;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;Osasco;32
+Dor de Garganta, Febre, Tosse, Dispneia, Outros;Não;Solicitado;RT-PCR;null;Feminino;SÃO PAULO;Indaiatuba;39
+Dor de Garganta, Outros, Coriza;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;São Manuel;29
+Dor de Garganta, Dor de Cabeça, Outros;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;Elias Fausto;42
+Assintomático;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;São Paulo;24
+Dor de Garganta, Dor de Cabeça;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;São Paulo;49
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Masculino;SÃO PAULO;São Paulo;23
+Dor de Garganta, Tosse, Coriza, Dor de Cabeça, Outros;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;Barra Bonita;48
+Febre;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;Guarulhos;32
+Dor de Cabeça, Distúrbios Olfativos, Distúrbios Gustativos;Não;Coletado;null;null;Feminino;SÃO PAULO;São Paulo;36
+Dor de Garganta, Tosse, Febre;Não;Concluído;TESTE RÁPIDO - ANTÍGENO;Positivo;Feminino;SÃO PAULO;Pontal;64
+Outros;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Arujá;17
+Dor de Garganta, Febre, Dor de Cabeça, Coriza;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;Penápolis;52
+Dor de Garganta, Dor de Cabeça, Coriza, Dispneia;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;Tatuí;37
+Dor de Cabeça, Distúrbios Gustativos, Distúrbios Olfativos;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;São Paulo;49
+Dispneia, Outros;Não;Concluído;RT-PCR;Positivo;Masculino;SÃO PAULO;São Paulo;85
+Tosse, Dor de Cabeça, Distúrbios Gustativos, Distúrbios Olfativos, Coriza, Outros, Dispneia, Dor de Garganta;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;Franco da Rocha;23
+Tosse;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Assis;28
+Dispneia;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;Ferraz de Vasconcelos;35
+Tosse, Coriza, Dor de Cabeça, Dispneia;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;Araraquara;19
+Tosse, Dor de Garganta, Coriza, Dor de Cabeça;Não;Solicitado;RT-PCR;null;Feminino;SÃO PAULO;São Paulo;71
+Dor de Garganta, Dor de Cabeça, Febre;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;São Paulo;18
+Dor de Garganta, Tosse, Coriza;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;São José do Rio Preto;42
+Dor de Garganta, Tosse, Outros, Dor de Cabeça;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Nova Odessa;25
+Febre, Tosse, Coriza;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Masculino;SÃO PAULO;Araçoiaba da Serra;62
+Assintomático;Não;Concluído;null;null;Masculino;SÃO PAULO;Américo Brasiliense;28
+Assintomático;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Igarapava;25
+Outros, Assintomático;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;São Bernardo do Campo;66
+Dor de Garganta, Dispneia, Febre, Outros, Dor de Cabeça, Distúrbios Gustativos, Distúrbios Olfativos;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Diadema;28
+Dor de Garganta, Tosse, Coriza;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Santa Rita do Passa Quatro;16
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;Descalvado;41
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Masculino;GOIÁS;Goiânia;49
+Febre, Tosse, Outros, Dor de Cabeça, Distúrbios Gustativos, Distúrbios Olfativos, Coriza;Não;Concluído;RT-PCR;Positivo;Feminino;SÃO PAULO;Taquaritinga;26
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Masculino;SÃO PAULO;Fernandópolis;29
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Masculino;MINAS GERAIS;Belo Horizonte;40
+Dor de Garganta, Tosse, Dor de Cabeça;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Paranapanema;32
+Assintomático;Não;Concluído;RT-PCR;Positivo;Feminino;SÃO PAULO;São Paulo;81
+Dor de Garganta, Tosse, Dor de Cabeça, Coriza;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;Várzea Paulista;47
+Assintomático;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Santo André;36
+Tosse, Coriza;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Campinas;63
+Febre, Dor de Garganta, Tosse;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;São Paulo;32
+Febre, Outros;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;São Paulo;26
+Outros;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;Carapicuíba;44
+Coriza;Não;Concluído;TESTE RÁPIDO - ANTÍGENO;Negativo;Feminino;RIO DE JANEIRO;Rio de Janeiro;41
+Dor de Garganta, Tosse, Dor de Cabeça, Coriza, Outros;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;Assis;23
+Febre, Distúrbios Gustativos, Distúrbios Olfativos, Dor de Cabeça;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;São Paulo;51
+Coriza, Outros;Não;Concluído;RT-PCR;Positivo;Feminino;SÃO PAULO;Caçapava;22
+Dor de Garganta;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;São Paulo;53
+Febre, Tosse, Outros;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;São Paulo;4
+Assintomático;Não;Concluído;null;null;Feminino;SÃO PAULO;Santo André;63
+Tosse, Coriza;Não;Exame Não Solicitado;null;null;Masculino;SÃO PAULO;São Bernardo do Campo;9
+Dor de Garganta, Outros;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Campinas;17
+Outros;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Mogi das Cruzes;37
+Febre, Tosse, Outros;Não;Concluído;RT-PCR;Positivo;Masculino;SÃO PAULO;São Paulo;6
+Outros, Assintomático;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;São José do Rio Preto;21
+Febre, Dor de Cabeça, Outros;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;São Paulo;26
+Assintomático;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;Arujá;30
+Dor de Cabeça, Distúrbios Olfativos;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;Capela do Alto;41
+Dor de Cabeça, Coriza, Outros;Não;Concluído;RT-PCR;Positivo;Masculino;SÃO PAULO;Santana de Parnaíba;38
+Tosse, Dor de Cabeça, Dor de Garganta, Febre;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;São Paulo;53
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Masculino;SÃO PAULO;Votuporanga;27
+Tosse, Dor de Cabeça, Coriza, Outros;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;São Paulo;11
+Tosse, Outros, Coriza;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Jundiaí;45
+Tosse, Dispneia;Não;Concluído;RT-PCR;Positivo;Feminino;SÃO PAULO;São Paulo;23
+Coriza, Dor de Cabeça, Febre, Dispneia;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;São Paulo;22
+Dor de Garganta, Tosse, Dor de Cabeça, Coriza;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Arujá;23
+Dor de Garganta, Dispneia, Tosse, Dor de Cabeça, Distúrbios Gustativos, Distúrbios Olfativos, Coriza;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;Salto;33
+Tosse, Febre;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;São Paulo;27
+Febre;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Jacareí;21
+Dispneia;Não;Concluído;TESTE RÁPIDO - ANTÍGENO;Negativo;Feminino;SÃO PAULO;São Paulo;26
+Dor de Cabeça, Distúrbios Olfativos, Distúrbios Gustativos, Dor de Garganta, Tosse, Coriza;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;Americana;28
+Assintomático;Não;Concluído;null;null;Feminino;SÃO PAULO;Colina;31
+Tosse, Dor de Garganta, Coriza, Dor de Cabeça, Outros;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;Agudos;38
+Dispneia, Coriza, Dor de Cabeça;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;São Paulo;29
+Febre, Outros;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Itapetininga;39
+Dor de Garganta, Febre, Tosse, Dor de Cabeça, Coriza;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Nova Odessa;44
+Tosse, Outros, Dor de Cabeça, Coriza, Febre, Dor de Garganta, Distúrbios Gustativos, Distúrbios Olfativos;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;Várzea Paulista;22
+Coriza, Tosse;Sim;Concluído;RT-PCR;Positivo;Feminino;SÃO PAULO;São Paulo;35
+Outros;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Águas de Lindóia;58
+Dispneia, Febre, Outros;Não;Concluído;RT-PCR;Positivo;Feminino;SÃO PAULO;Ibitinga;30
+Tosse;Não;null;null;null;Feminino;SÃO PAULO;Campinas;18
+Assintomático;Não;Concluído;null;null;Feminino;SÃO PAULO;Marília;7
+Dor de Garganta, Febre, Tosse, Outros, Dor de Cabeça, Distúrbios Olfativos, Coriza;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Jundiaí;43
+Febre;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;São Paulo;0
+Dor de Garganta, Febre, Outros, Dor de Cabeça, Coriza;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Diadema;24
+Tosse, Dor de Cabeça, Outros;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;São Paulo;10
+Coriza;Não;Concluído;TESTE RÁPIDO - ANTÍGENO;Negativo;Feminino;RIO DE JANEIRO;Rio de Janeiro;38
+Febre, Tosse, Dor de Garganta;Não;Concluído;RT-PCR;Positivo;Masculino;SÃO PAULO;São Paulo;20
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Masculino;SÃO PAULO;Miguelópolis;36
+Outros, Febre, Tosse, Dor de Garganta, Dor de Cabeça;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;São Paulo;25
+Febre, Tosse, Outros;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;Campinas;68
+Assintomático;Não;Concluído;;null;Feminino;SÃO PAULO;Valinhos;24
+Outros;Não;Concluído;RT-PCR;Positivo;Feminino;SÃO PAULO;São Paulo;36
+Tosse, Febre, Dispneia, Dor de Cabeça;Não;Solicitado;RT-PCR;null;Masculino;SÃO PAULO;Sumaré;9
+Assintomático;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Igarapava;25
+Dispneia, Febre, Tosse;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;São Paulo;26
+Febre, Dor de Cabeça, Coriza, Outros;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;São Paulo;20
+Febre, Tosse, Coriza, Outros;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Cafelândia;37
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Positivo;Feminino;SÃO PAULO;Guariba;81
+Assintomático;Não;Coletado;null;null;Masculino;SÃO PAULO;São Paulo;37
+Tosse, Outros, Dor de Cabeça;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Tanabi;49
+Assintomático;Não;Concluído;null;null;Feminino;SÃO PAULO;Guaíra;35
+Dor de Cabeça, Tosse, Dor de Garganta;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Pirassununga;35
+Tosse, Dor de Garganta;Não;Concluído;RT-PCR;Positivo;Feminino;SÃO PAULO;Sumaré;33
+Dor de Garganta, Febre;Não;Solicitado;RT-PCR;null;Masculino;SÃO PAULO;Araçatuba;54
+Dor de Garganta, Febre;Não;Concluído;RT-PCR;Positivo;Feminino;SÃO PAULO;São Paulo;25
+Assintomático;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Jundiaí;35
+Dispneia;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;Ilha Solteira;18
+Assintomático;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;Santa Isabel;38
+Tosse;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Porto Feliz;38
+Dor de Cabeça, Outros;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;Conchal;24
+Dor de Garganta, Tosse, Coriza;Não;null;null;null;Masculino;SÃO PAULO;São Paulo;35
+Dor de Garganta, Tosse, Outros, Dor de Cabeça;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Tremembé;42
+Febre, Dor de Cabeça, Dor de Garganta, Outros;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;São Paulo;58
+Dor de Garganta, Tosse, Coriza;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;Sorocaba;25
+Febre, Tosse, Outros;Não;Concluído;RT-PCR;Positivo;Feminino;SÃO PAULO;Jaguariúna;22
+Assintomático;Não;Coletado;null;null;Masculino;SÃO PAULO;São Paulo;17
+Dor de Garganta, Tosse, Dor de Cabeça, Coriza;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;Atibaia;51
+Dor de Cabeça, Dor de Garganta, Febre;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;São Paulo;19
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;Jacareí;28
+Febre, Dor de Cabeça;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;São Paulo;32
+Outros;Não;Exame Não Solicitado;null;null;Masculino;SÃO PAULO;São Paulo;46
+Dor de Garganta, Tosse, Outros;Não;Concluído;TESTE RÁPIDO - ANTÍGENO;Positivo;Masculino;SÃO PAULO;Sorocaba;55
+Tosse;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;Americana;47
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;Jacareí;44
+Assintomático;Sim;Solicitado;RT-PCR;null;Feminino;SÃO PAULO;Reginópolis;63
+Febre, Tosse, Dor de Garganta, Dor de Cabeça, Outros;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;São Paulo;43
+Febre, Tosse, Outros, Distúrbios Gustativos, Distúrbios Olfativos;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;São Paulo;25
+Dispneia, Febre, Tosse, Distúrbios Gustativos, Distúrbios Olfativos, Coriza, Dor de Cabeça, Dor de Garganta;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;São Paulo;21
+Outros;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;Santa Bárbara d'Oeste;42
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Masculino;SÃO PAULO;Jacareí;38
+Febre, Tosse, Dor de Cabeça, Coriza;Não;Solicitado;RT-PCR;null;Masculino;SÃO PAULO;Registro;24
+Dor de Cabeça, Dor de Garganta, Distúrbios Olfativos, Tosse, Coriza;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;Santa Bárbara d'Oeste;30
+Dor de Garganta, Febre, Tosse, Outros, Coriza;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;Nova Odessa;22
+Dor de Garganta, Outros;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Porto Feliz;20
+Dor de Garganta, Coriza, Dor de Cabeça;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Campinas;64
+Dor de Cabeça, Distúrbios Gustativos, Dor de Garganta, Outros, Tosse;Não;Solicitado;TESTE RÁPIDO - ANTICORPO;null;Feminino;SÃO PAULO;Inúbia Paulista;42
+Dor de Garganta, Dispneia, Febre, Tosse, Coriza, Outros;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Francisco Morato;50
+Dor de Garganta, Febre, Tosse, Coriza;Não;Solicitado;RT-PCR;null;Feminino;SÃO PAULO;Campinas;20
+Tosse, Outros;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;Santa Bárbara d'Oeste;48
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;Jacareí;61
+Dor de Cabeça, Tosse, Dor de Garganta, Outros;Não;null;null;null;Feminino;SÃO PAULO;São Paulo;28
+Coriza, Dor de Cabeça, Tosse;Não;Concluído;RT-PCR;Positivo;Feminino;SÃO PAULO;São Paulo;55
+Tosse, Dor de Garganta, Distúrbios Gustativos, Coriza;Não;Coletado;null;null;Masculino;SÃO PAULO;Santo André;42
+Tosse, Coriza, Outros;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;São Paulo;20
+Outros, Febre, Tosse, Dor de Garganta, Dor de Cabeça;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;São Paulo;25
+Assintomático;Não;Coletado;null;null;Feminino;SÃO PAULO;São Bernardo do Campo;39
+Dispneia, Coriza, Dor de Cabeça;Não;Concluído;RT-PCR;Positivo;Feminino;SÃO PAULO;Hortolândia;46
+Dor de Garganta, Coriza, Dor de Cabeça, Outros;Não;Concluído;RT-PCR;Positivo;Feminino;SÃO PAULO;Assis;36
+Dor de Garganta, Febre, Tosse;Sim;Concluído;RT-PCR;Positivo;Masculino;SÃO PAULO;São Paulo;53
+Febre, Outros, Dor de Garganta, Dor de Cabeça, Distúrbios Gustativos;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Positivo;Feminino;SÃO PAULO;Itápolis;70
+Febre, Dor de Garganta, Outros;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Campinas;0
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Masculino;SÃO PAULO;Jacareí;47
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Masculino;SÃO PAULO;São José do Rio Preto;22
+Tosse, Dor de Garganta;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Masculino;SÃO PAULO;Duartina;58
+Dor de Garganta, Tosse;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;Altair;52
+Dor de Cabeça, Distúrbios Olfativos;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Positivo;Feminino;SÃO PAULO;Pitangueiras;40
+Outros, Dor de Cabeça, Distúrbios Gustativos, Distúrbios Olfativos;Não;Concluído;RT-PCR;Positivo;Masculino;SÃO PAULO;Bauru;37
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Positivo;Feminino;SÃO PAULO;Araras;34
+Tosse, Dor de Garganta, Coriza, Dor de Cabeça;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;Araraquara;37
+Dor de Cabeça, Coriza;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;Catanduva;8
+Dor de Garganta, Tosse, Dispneia, Febre;Não;Concluído;TESTE RÁPIDO - ANTÍGENO;Positivo;Masculino;SÃO PAULO;Santa Bárbara d'Oeste;46
+Assintomático;Não;Concluído;RT-PCR;Negativo;Masculino;PARANÁ;Ponta Grossa;41
+Dor de Garganta, Febre, Tosse, Outros, Dor de Cabeça, Distúrbios Gustativos, Distúrbios Olfativos, Coriza;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Jundiaí;23
+Tosse, Outros;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Cafelândia;17
+Assintomático;Não;Concluído;null;null;Masculino;SÃO PAULO;Santo André;74
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Masculino;SÃO PAULO;Pindorama;25
+Coriza, Dispneia;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;São Paulo;51
+Dor de Garganta, Coriza, Tosse, Dor de Cabeça;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;São Paulo;58
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;Araçoiaba da Serra;47
+Dor de Garganta, Dor de Cabeça, Dispneia;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Sertãozinho;53
+Dispneia;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Masculino;SÃO PAULO;Tanabi;78
+Outros;Não;Concluído;Imunoensaio por Eletroquimioluminescência - ECLIA IgG;Negativo;Feminino;SÃO PAULO;Itapecerica da Serra;37
+Febre;Não;Concluído;RT-PCR;Positivo;Feminino;SÃO PAULO;Jaguariúna;22
+Tosse, Coriza;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Pirassununga;25
+Outros, Assintomático;Não;Concluído;null;null;Feminino;SÃO PAULO;Marília;32
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;São Roque;51
+Febre, Tosse;Não;Concluído;RT-PCR;Positivo;Masculino;SÃO PAULO;Uchoa;76
+Tosse, Dor de Cabeça;Não;Concluído;RT-PCR;Positivo;Masculino;SÃO PAULO;Presidente Prudente;63
+Tosse, Dispneia;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Santa Rita do Passa Quatro;20
+Dor de Cabeça, Febre, Outros, Distúrbios Gustativos;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Itapetininga;25
+Dor de Garganta, Dor de Cabeça, Outros;Não;Concluído;null;null;Masculino;SÃO PAULO;Jundiaí;57
+Tosse, Dor de Cabeça, Outros;Não;Solicitado;RT-PCR;null;Feminino;SÃO PAULO;Campinas;20
+Outros, Tosse, Febre, Dispneia, Dor de Cabeça;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;São Paulo;38
+Febre, Coriza;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;São Paulo;50
+Distúrbios Gustativos, Distúrbios Olfativos, Febre, Dor de Garganta;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;Dois Córregos;15
+Dor de Garganta, Dispneia, Febre, Tosse, Dor de Cabeça;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;São Paulo;50
+Dor de Garganta, Dispneia, Febre, Tosse, Dor de Cabeça;Não;null;null;null;Masculino;SÃO PAULO;Campinas;27
+Dor de Garganta, Dor de Cabeça, Febre, Distúrbios Gustativos, Distúrbios Olfativos, Tosse, Coriza;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Masculino;SÃO PAULO;Itapuí;39
+Febre;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;Santana de Parnaíba;40
+Febre, Tosse;Não;Concluído;null;null;Feminino;SÃO PAULO;Americana;17
+Febre, Distúrbios Olfativos, Distúrbios Gustativos, Dor de Cabeça;Não;Concluído;TESTE RÁPIDO - ANTÍGENO;Negativo;Masculino;SÃO PAULO;Osasco;20
+Tosse, Febre, Dor de Cabeça;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;Marília;37
+Dor de Garganta, Febre, Tosse, Coriza, Dor de Cabeça;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;Barra Bonita;50
+Assintomático;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;Carapicuíba;43
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;Guariba;32
+Dor de Garganta, Febre, Tosse, Coriza;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;São Paulo;25
+Coriza, Distúrbios Gustativos, Distúrbios Olfativos, Dor de Cabeça, Tosse, Dor de Garganta, Outros;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;Aramina;31
+Dor de Garganta, Febre, Tosse, Dor de Cabeça, Coriza, Outros;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Santa Bárbara d'Oeste;53
+Coriza, Dor de Cabeça, Tosse;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Assis;41
+Tosse, Dor de Cabeça, Coriza;Não;Concluído;RT-PCR;Positivo;Feminino;SÃO PAULO;Itu;59
+Dor de Garganta, Outros;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;São José do Rio Preto;49
+Tosse, Outros, Coriza;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;São Paulo;33
+Coriza, Distúrbios Gustativos, Dor de Cabeça, Dor de Garganta;Não;Coletado;null;null;Feminino;SÃO PAULO;Mauá;32
+Outros, Assintomático;Não;Concluído;RT-PCR;Positivo;Masculino;SÃO PAULO;Ibitinga;11
+Dor de Garganta, Dor de Cabeça, Outros;Não;Concluído;RT-PCR;Positivo;Feminino;SÃO PAULO;São Paulo;43
+Tosse, Dor de Garganta;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;Ferraz de Vasconcelos;23
+Tosse, Dispneia;Não;Exame Não Solicitado;null;null;Feminino;SÃO PAULO;São Paulo;38
+Outros, Dispneia;Não;Exame Não Solicitado;null;null;Masculino;SÃO PAULO;São Paulo;90
+Assintomático;Não;Solicitado;RT-PCR;null;Masculino;SÃO PAULO;Adolfo;11
+Outros;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;Lorena;60
+Distúrbios Gustativos, Distúrbios Olfativos, Febre, Tosse, Outros;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;São Paulo;55
+Febre, Dor de Cabeça, Outros;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;São Bernardo do Campo;33
+Tosse, Coriza, Distúrbios Gustativos;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;Alambari;28
+Dor de Garganta, Coriza, Tosse, Febre;Sim;Concluído;RT-PCR;Positivo;Feminino;SÃO PAULO;São Paulo;66
+Assintomático;Não;Concluído;null;null;Feminino;SÃO PAULO;São Bernardo do Campo;65
+Febre, Dor de Cabeça, Outros, Distúrbios Gustativos;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;São Paulo;40
+Dor de Garganta, Coriza;Não;Coletado;null;null;Feminino;SÃO PAULO;São Bernardo do Campo;29
+Dor de Garganta;Não;Exame Não Solicitado;null;null;Feminino;SÃO PAULO;São Paulo;12
+Assintomático;Não;Concluído;null;null;Feminino;SÃO PAULO;Barretos;48
+Outros;Não;Concluído;RT-PCR;Positivo;Masculino;SÃO PAULO;São Paulo;50
+Dispneia;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Santa Rita do Passa Quatro;65
+Coriza, Dor de Cabeça;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;São Paulo;55
+Tosse;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;Araraquara;30
+Dor de Garganta, Outros, Dor de Cabeça;Não;Concluído;RT-PCR;Positivo;Feminino;SÃO PAULO;Jundiaí;33
+Outros;Sim;Concluído;TESTE RÁPIDO - ANTÍGENO;Negativo;Masculino;SÃO PAULO;Salto;55
+Outros;Não;;null;null;Masculino;SÃO PAULO;Guarulhos;71
+Dor de Garganta, Dispneia, Febre, Tosse;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;São Paulo;29
+Febre, Tosse, Dor de Garganta, Outros, Distúrbios Gustativos;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;São Paulo;23
+Outros;Não;Concluído;TESTE RÁPIDO - ANTÍGENO;Positivo;Masculino;SÃO PAULO;Araraquara;40
+Dor de Garganta, Tosse, Outros, Dispneia;Não;Coletado;null;null;Feminino;SÃO PAULO;São Bernardo do Campo;47
+Dor de Garganta, Tosse, Outros, Dor de Cabeça, Distúrbios Gustativos, Distúrbios Olfativos, Coriza;Não;Concluído;RT-PCR;Positivo;Feminino;SÃO PAULO;Tremembé;22
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Positivo;Feminino;SÃO PAULO;Caraguatatuba;18
+Assintomático;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Sumaré;35
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;Ourinhos;17
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;Jacareí;51
+Dor de Cabeça;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;Várzea Paulista;28
+Dor de Cabeça, Distúrbios Gustativos, Coriza;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;Americana;45
+Assintomático;Não;Exame Não Solicitado;null;null;Feminino;SÃO PAULO;Cardoso;49
+Tosse, Outros, Dor de Cabeça, Coriza;Não;Concluído;RT-PCR;Positivo;Feminino;SÃO PAULO;Bauru;62
+Dor de Garganta, Tosse, Dor de Cabeça, Coriza;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;Pindamonhangaba;21
+Dispneia, Tosse, Distúrbios Gustativos, Distúrbios Olfativos;Não;Exame Não Solicitado;null;null;Feminino;SÃO PAULO;Itápolis;15
+Tosse, Dor de Garganta, Coriza;Sim;Coletado;RT-PCR;null;Feminino;SÃO PAULO;São Paulo;73
+Dor de Cabeça, Outros;Não;Concluído;TESTE RÁPIDO - ANTÍGENO;Positivo;Feminino;SÃO PAULO;Salto de Pirapora;19
+Tosse, Outros;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;São Paulo;50
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;Ribeirão Preto;43
+Dor de Cabeça, Dor de Garganta, Tosse;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Santa Rita do Passa Quatro;36
+Febre, Tosse, Outros;Sim;Concluído;RT-PCR;Positivo;Masculino;SÃO PAULO;Mauá;50
+Dispneia, Tosse;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;São Paulo;29
+Febre;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;São Paulo;22
+Febre, Tosse, Outros;Não;Concluído;RT-PCR;Positivo;Masculino;SÃO PAULO;Nova Odessa;23
+Dispneia, Outros, Distúrbios Gustativos;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Positivo;Masculino;SÃO PAULO;Pitangueiras;48
+Assintomático;Sim;Concluído;RT-PCR;Positivo;Masculino;SÃO PAULO;São Paulo;28
+Febre;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;São Paulo;34
+Tosse, Dor de Cabeça;Não;Concluído;RT-PCR;Positivo;Masculino;SÃO PAULO;Lençóis Paulista;42
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;Piracicaba;23
+Febre, Tosse, Dor de Cabeça;Não;Solicitado;RT-PCR;null;Masculino;MINAS GERAIS;Rio Piracicaba;39
+Assintomático;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Santana de Parnaíba;41
+Dor de Garganta, Febre, Tosse, Outros;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;São Paulo;30
+Febre;Não;Concluído;TESTE RÁPIDO - ANTÍGENO;Positivo;Masculino;RIO DE JANEIRO;Rio de Janeiro;53
+Dor de Cabeça, Coriza;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Cerqueira César;41
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;Jacareí;56
+Dor de Garganta, Coriza, Dor de Cabeça;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Santa Bárbara d'Oeste;35
+Dor de Garganta, Outros, Dor de Cabeça;Sim;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;São Paulo;31
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Masculino;SÃO PAULO;Capela do Alto;70
+Dor de Cabeça, Tosse, Dispneia;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;Diadema;42
+Dor de Cabeça, Tosse, Distúrbios Gustativos, Dor de Garganta;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;São Paulo;59
+Tosse, Dor de Cabeça;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;São Paulo;61
+Febre, Tosse, Dor de Garganta, Dispneia, Outros;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Campinas;39
+Febre, Tosse;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Positivo;Masculino;SÃO PAULO;Pitangueiras;48
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Positivo;Masculino;SÃO PAULO;Guariba;35
+Dor de Garganta, Coriza;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;Nova Odessa;22
+Dor de Garganta;Não;Concluído;RT-PCR;Positivo;Feminino;SÃO PAULO;São Paulo;15
+Dor de Garganta, Febre, Tosse, Dispneia, Distúrbios Gustativos, Distúrbios Olfativos;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;São Paulo;19
+Febre, Tosse, Dispneia, Coriza;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;Mogi das Cruzes;22
+Assintomático;Não;Coletado;TESTE RÁPIDO - ANTICORPO;null;Masculino;SÃO PAULO;São Roque;47
+Dor de Garganta, Dispneia, Outros;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;São Paulo;13
+Dispneia, Tosse;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;São Paulo;31
+Assintomático;Não;Solicitado;RT-PCR;null;Masculino;SÃO PAULO;Itaquaquecetuba;20
+Tosse, Coriza, Outros;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;São Paulo;24
+Febre, Dispneia, Dor de Cabeça, Tosse;Não;Concluído;RT-PCR;Positivo;Feminino;SÃO PAULO;Hortolândia;25
+Assintomático;Não;Coletado;null;null;Feminino;SÃO PAULO;Olímpia;47
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;Pindorama;28
+Dor de Garganta, Dispneia, Febre, Tosse, Outros, Dor de Cabeça, Distúrbios Olfativos, Coriza;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Diadema;31
+Dor de Garganta, Dispneia, Tosse;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;São Paulo;18
+Outros;Sim;Concluído;TESTE RÁPIDO - ANTÍGENO;Negativo;Feminino;SÃO PAULO;Salto;46
+Febre, Dor de Garganta, Tosse, Dor de Cabeça, Outros;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Pontal;65
+Dor de Garganta, Distúrbios Gustativos, Distúrbios Olfativos;Não;Concluído;RT-PCR;Positivo;Feminino;SÃO PAULO;Vinhedo;34
+Dor de Garganta, Febre, Dor de Cabeça;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;Francisco Morato;66
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;Areiópolis;69
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Masculino;SÃO PAULO;Jacareí;40
+Assintomático;Não;Concluído;null;null;Feminino;SÃO PAULO;Presidente Prudente;63
+Dispneia;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Porto Feliz;34
+Assintomático;Não;Solicitado;RT-PCR;null;Masculino;SÃO PAULO;Potirendaba;32
+Tosse;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;São Paulo;46
+Febre, Tosse, Coriza;Não;Exame Não Solicitado;null;null;Masculino;SÃO PAULO;Itápolis;1
+Tosse, Coriza;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;Mogi Guaçu;12
+Dor de Garganta, Dor de Cabeça;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;Araraquara;38
+Tosse, Dor de Garganta, Outros, Dor de Cabeça;Sim;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;São Paulo;28
+Febre, Tosse, Outros, Dor de Cabeça;Não;Concluído;RT-PCR;Positivo;Feminino;SÃO PAULO;Tremembé;45
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;São Roque;5
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Masculino;SÃO PAULO;Araçatuba;31
+Dor de Garganta, Tosse, Dor de Cabeça, Coriza;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;São Paulo;42
+Tosse, Dispneia;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Santa Rita do Passa Quatro;36
+Dispneia, Febre, Tosse, Coriza;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Cruzeiro;69
+Dispneia, Tosse;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Itapetininga;51
+Distúrbios Gustativos, Distúrbios Olfativos, Dor de Cabeça, Outros;Não;Concluído;RT-PCR;Positivo;Masculino;SÃO PAULO;São Paulo;1
+Coriza, Tosse, Dor de Cabeça;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;São Paulo;43
+Assintomático;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Jaci;81
+Dor de Garganta, Tosse, Coriza;Não;Concluído;RT-PCR;Positivo;Feminino;SÃO PAULO;Uchoa;23
+Febre;Não;Concluído;RT-PCR;Positivo;Masculino;SÃO PAULO;São Paulo;5
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Masculino;SÃO PAULO;Jacareí;24
+Assintomático;Não;Concluído;RT-PCR;Positivo;Feminino;SÃO PAULO;São Paulo;33
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;São Paulo;8
+Tosse, Dispneia, Dor de Cabeça, Outros;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Espírito Santo do Pinhal;27
+Dor de Garganta, Tosse, Outros;Não;Concluído;RT-PCR;Positivo;Masculino;SÃO PAULO;São Bernardo do Campo;36
+Coriza, Dor de Cabeça, Dor de Garganta, Outros;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;São Carlos;59
+Dor de Garganta, Febre, Tosse;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;São Paulo;38
+Dor de Cabeça, Outros;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Dracena;39
+Dor de Garganta, Febre;Não;Concluído;RT-PCR;Positivo;Feminino;SÃO PAULO;São Paulo;34
+Dor de Garganta, Febre, Distúrbios Gustativos, Distúrbios Olfativos;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;Dois Córregos;54
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;Jacareí;50
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Positivo;Masculino;SÃO PAULO;São Paulo;48
+Febre;Não;Exame Não Solicitado;null;null;Masculino;SÃO PAULO;São Paulo;35
+Dor de Garganta, Tosse;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Piracicaba;43
+Assintomático;Não;Concluído;null;null;Feminino;SÃO PAULO;Várzea Paulista;48
+Dor de Garganta, Tosse, Dispneia, Dor de Cabeça, Outros;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Embu-Guaçu;24
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Masculino;SÃO PAULO;Areiópolis;46
+Dor de Garganta, Dor de Cabeça, Distúrbios Gustativos, Distúrbios Olfativos;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;Dois Córregos;36
+Dor de Garganta, Dispneia, Febre, Tosse, Dor de Cabeça, Outros;Não;Concluído;TESTE RÁPIDO - ANTÍGENO;Positivo;Feminino;SÃO PAULO;Sorocaba;33
+Dor de Garganta, Dispneia, Tosse, Febre;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;São Paulo;48
+Tosse, Dor de Cabeça, Coriza;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Jundiaí;41
+Tosse, Outros, Coriza;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;São Paulo;20
+Coriza, Dor de Cabeça;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;Araraquara;22
+Distúrbios Gustativos;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Positivo;Masculino;SÃO PAULO;Santana de Parnaíba;24
+Tosse, Febre, Dor de Cabeça;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;São Paulo;23
+Tosse, Febre, Dor de Cabeça;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;São Paulo;28
+Tosse, Outros;Não;Concluído;RT-PCR;Positivo;Masculino;SÃO PAULO;Pedranópolis;39
+Dor de Garganta, Tosse, Coriza, Outros;Sim;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Santa Bárbara d'Oeste;50
+Outros;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;São Paulo;8
+Tosse, Dispneia, Outros;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Masculino;SÃO PAULO;Conchal;8
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Masculino;SÃO PAULO;São Paulo;50
+Febre, Outros, Dor de Cabeça;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;São Paulo;47
+Tosse, Febre;Não;Concluído;RT-PCR;Positivo;Masculino;SÃO PAULO;Taquarituba;23
+Tosse;Não;Coletado;TESTE RÁPIDO - ANTICORPO;null;Feminino;SÃO PAULO;São Bernardo do Campo;57
+Dor de Garganta, Distúrbios Olfativos, Distúrbios Gustativos;Não;null;null;null;Masculino;SÃO PAULO;São Paulo;23
+Tosse, Coriza;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Pirassununga;59
+Assintomático;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Itapira;53
+Coriza, Tosse;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;São Pedro do Turvo;29
+Tosse, Febre, Assintomático, Outros;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Positivo;Masculino;SÃO PAULO;Francisco Morato;44
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Masculino;SÃO PAULO;São Paulo;15
+Tosse, Febre, Outros;Sim;Concluído;RT-PCR;Positivo;Feminino;SÃO PAULO;São Paulo;33
+Assintomático;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;Carapicuíba;11
+Outros;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;São Paulo;19
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Masculino;SÃO PAULO;Jacareí;59
+Assintomático;Não;Solicitado;RT-PCR;null;Feminino;SÃO PAULO;Reginópolis;91
+Dispneia, Febre, Coriza;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;Mogi Guaçu;36
+Coriza, Tosse;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;São Paulo;61
+Tosse, Outros;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Cruzeiro;34
+Coriza;Não;Concluído;TESTE RÁPIDO - ANTÍGENO;Negativo;Feminino;RIO DE JANEIRO;Rio de Janeiro;61
+Distúrbios Olfativos, Febre, Outros;Não;Concluído;RT-PCR;Positivo;Masculino;SÃO PAULO;São Paulo;65
+Tosse, Dor de Garganta, Dispneia, Dor de Cabeça;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Artur Nogueira;33
+Assintomático;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Campinas;52
+Dor de Garganta, Tosse;Não;Concluído;RT-PCR;Positivo;Feminino;SÃO PAULO;São Paulo;42
+Tosse;Sim;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;São Paulo;50
+Tosse, Dispneia;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;São Paulo;58
+Dor de Garganta, Dor de Cabeça, Coriza;Não;Concluído;RT-PCR;Positivo;Feminino;SÃO PAULO;Lençóis Paulista;50
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Positivo;Masculino;PIAUÍ;Santa Cruz do Piauí;30
+Tosse;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Porto Feliz;26
+Tosse, Outros, Dor de Cabeça;Não;Concluído;RT-PCR;Positivo;Feminino;SÃO PAULO;Tremembé;50
+Dor de Garganta, Dispneia, Tosse, Febre, Outros;Não;Concluído;RT-PCR;Positivo;Feminino;SÃO PAULO;Pitangueiras;23
+Distúrbios Olfativos, Assintomático;Não;Solicitado;RT-PCR;null;Feminino;SÃO PAULO;Reginópolis;76
+Febre, Tosse, Outros, Distúrbios Olfativos;Não;Concluído;null;null;Masculino;SÃO PAULO;Presidente Prudente;53
+Dor de Garganta, Dor de Cabeça, Distúrbios Gustativos, Coriza;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Guaíra;37
+Dor de Garganta, Coriza;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Santa Rita do Passa Quatro;34
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Positivo;Feminino;SÃO PAULO;Guarulhos;57
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;Jacareí;51
+Dor de Cabeça, Tosse, Coriza, Febre;Não;Concluído;RT-PCR;Positivo;Feminino;SÃO PAULO;São Paulo;6
+Dor de Garganta, Tosse, Outros;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;Pedreira;29
+Assintomático;Não;Coletado;null;null;Feminino;SÃO PAULO;São Paulo;63
+Tosse, Coriza;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;São Paulo;39
+Tosse, Dor de Garganta, Coriza, Outros;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Positivo;Feminino;SÃO PAULO;Americana;39
+Febre, Dor de Garganta, Tosse, Coriza, Dor de Cabeça, Outros;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Pirassununga;41
+Tosse, Outros;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;São Paulo;45
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Masculino;SÃO PAULO;Ourinhos;19
+Tosse, Dor de Garganta;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;São Paulo;64
+Dor de Garganta, Outros;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Itatiba;10
+Dor de Garganta, Tosse;Não;Concluído;RT-PCR;Positivo;Masculino;SÃO PAULO;Cruzeiro;22
+Outros, Dor de Garganta, Febre;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;São Paulo;25
+Febre;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;Santana de Parnaíba;29
+Dor de Cabeça, Outros;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;São José do Rio Preto;37
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;Jacareí;46
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;São José do Rio Preto;30
+Assintomático;Não;Exame Não Solicitado;null;null;Masculino;SÃO PAULO;Cardoso;17
+Dor de Garganta, Dor de Cabeça, Febre;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;Vargem Grande Paulista;20
+Febre, Dispneia, Outros;Não;Concluído;RT-PCR;Positivo;Masculino;SÃO PAULO;São Paulo;51
+Assintomático;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Campinas;39
+Outros;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;São Paulo;33
+Assintomático;Não;Concluído;RT-PCR;Positivo;Masculino;RIO DE JANEIRO;Macaé;43
+Dor de Garganta, Febre, Tosse, Outros;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Diadema;11
+Dor de Cabeça, Febre, Tosse;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Masculino;SÃO PAULO;Mogi Guaçu;49
+Tosse, Distúrbios Gustativos;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Louveira;29
+Febre, Tosse, Outros;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;Francisco Morato;64
+Assintomático;Não;Exame Não Solicitado;null;null;Feminino;SÃO PAULO;Santa Bárbara d'Oeste;28
+Febre, Outros;Não;Solicitado;RT-PCR;null;Feminino;SÃO PAULO;Bady Bassitt;84
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;Jacareí;36
+Dor de Cabeça, Febre, Distúrbios Gustativos, Distúrbios Olfativos, Dispneia, Tosse, Coriza;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;São Paulo;42
+Febre, Dor de Cabeça;Não;Solicitado;RT-PCR;null;Feminino;SÃO PAULO;Guariba;20
+Coriza, Dor de Garganta, Tosse, Dor de Cabeça;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;São José do Rio Preto;20
+Febre, Dor de Cabeça, Coriza;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Artur Nogueira;31
+Dor de Garganta, Coriza, Tosse, Febre;Não;Solicitado;RT-PCR;null;Masculino;SÃO PAULO;Pindorama;18
+Dor de Garganta, Tosse, Coriza, Dor de Cabeça, Outros;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Pirassununga;47
+Dor de Garganta, Distúrbios Gustativos, Distúrbios Olfativos, Febre, Tosse, Dor de Cabeça;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;São Paulo;25
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;GOIÁS;Rio Verde;27
+Febre, Dor de Garganta, Dor de Cabeça, Outros;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;São Paulo;48
+Dor de Garganta, Febre, Outros;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Santa Bárbara d'Oeste;49
+Tosse, Distúrbios Gustativos, Distúrbios Olfativos;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Porto Feliz;61
+Dor de Garganta, Febre;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;Campinas;39
+Assintomático;Não;Concluído;null;null;Masculino;SÃO PAULO;Cosmópolis;42
+Dor de Garganta, Tosse, Coriza;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;Salto;50
+Dor de Garganta, Tosse, Febre, Dor de Cabeça;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;São Paulo;58
+Outros, Coriza, Dor de Cabeça, Distúrbios Gustativos;Não;Concluído;RT-PCR;Positivo;Feminino;SÃO PAULO;São Paulo;63
+Dor de Cabeça, Coriza, Tosse;Sim;Coletado;RT-PCR;null;Feminino;SÃO PAULO;Diadema;42
+Dor de Cabeça, Distúrbios Gustativos;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;Osasco;58
+Dor de Garganta, Tosse, Outros;Não;Coletado;TESTE RÁPIDO - ANTICORPO;null;Feminino;SÃO PAULO;Carapicuíba;30
+Dor de Garganta, Dispneia, Dor de Cabeça, Coriza;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Cruzeiro;41
+Coriza;Sim;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;São José do Rio Pardo;49
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;Pindorama;31
+Tosse, Dor de Garganta, Coriza;Não;Solicitado;RT-PCR;null;Feminino;SÃO PAULO;Campinas;33
+Febre, Tosse, Dor de Garganta;Não;Concluído;RT-PCR;Positivo;Masculino;SÃO PAULO;São Paulo;42
+Distúrbios Olfativos, Outros;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Alfredo Marcondes;20
+Febre, Outros;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Bady Bassitt;84
+Assintomático;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;Suzano;61
+Dor de Garganta, Tosse, Coriza;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;São Paulo;28
+Dor de Garganta, Tosse, Dispneia, Coriza, Outros;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Porto Feliz;34
+Dispneia;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;Severínia;34
+Febre, Tosse, Dor de Cabeça, Outros;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Jacareí;34
+Assintomático;Sim;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;Sorocaba;47
+Febre, Tosse, Outros, Dor de Cabeça;Não;Concluído;RT-PCR;Positivo;Feminino;SÃO PAULO;Uchoa;33
+Dor de Garganta, Febre, Tosse;Sim;Concluído;TESTE RÁPIDO - ANTICORPO;Positivo;Feminino;SÃO PAULO;São Paulo;41
+Assintomático;Não;Concluído;null;null;Feminino;CEARÁ;Jaguaretama;30
+Tosse, Dor de Cabeça, Outros;Não;Concluído;RT-PCR;Positivo;Masculino;SÃO PAULO;Itapetininga;40
+Dispneia;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Positivo;Masculino;SÃO PAULO;Guaíra;31
+Febre;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;Mogi Guaçu;28
+Assintomático;Não;Concluído;RT-PCR;Positivo;Masculino;SÃO PAULO;São Paulo;56
+Outros;Não;Concluído;RT-PCR;Positivo;Masculino;SÃO PAULO;São Paulo;37
+Tosse, Outros;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Nova Odessa;18
+Tosse, Outros;Não;Concluído;RT-PCR;Positivo;Feminino;SÃO PAULO;São Paulo;54
+Dor de Garganta, Tosse;Não;Exame Não Solicitado;null;null;Masculino;SÃO PAULO;Americana;40
+Outros, Coriza;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Pedranópolis;24
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Masculino;MINAS GERAIS;Belo Horizonte;37
+Febre, Tosse, Dor de Cabeça, Coriza;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;São Vicente;14
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTÍGENO;Negativo;Masculino;SÃO PAULO;Osasco;35
+Tosse, Outros;Não;Solicitado;RT-PCR;null;Feminino;SÃO PAULO;Diadema;59
+Outros;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;São Paulo;43
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Positivo;Feminino;SÃO PAULO;Vinhedo;48
+Febre, Tosse, Dispneia;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;São Paulo;32
+Coriza;Não;Concluído;TESTE RÁPIDO - ANTÍGENO;Negativo;Feminino;RIO DE JANEIRO;Rio de Janeiro;28
+Tosse, Coriza;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;Diadema;47
+Dor de Garganta, Dispneia, Tosse, Dor de Cabeça, Outros;Não;Coletado;null;null;Feminino;SÃO PAULO;Santo André;40
+Dispneia;Não;Coletado;null;null;Masculino;SÃO PAULO;São Paulo;68
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Positivo;Masculino;SÃO PAULO;Pitangueiras;48
+Febre, Tosse, Coriza;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Campinas;0
+Dor de Cabeça, Febre, Coriza, Outros;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;Valinhos;19
+Outros;Não;Concluído;Enzimaimunoensaio - ELISA IgM;Negativo;Feminino;SÃO PAULO;Mogi das Cruzes;53
+Dor de Garganta, Tosse, Dor de Cabeça, Coriza;Sim;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Jacareí;22
+Dor de Cabeça, Tosse, Coriza, Outros;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;São Paulo;42
+Febre, Distúrbios Gustativos, Distúrbios Olfativos, Outros;Não;Concluído;RT-PCR;Positivo;Masculino;SÃO PAULO;São Paulo;38
+Febre, Dor de Cabeça, Dor de Garganta;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;São Paulo;58
+Febre, Tosse, Dor de Garganta;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;São Paulo;60
+Outros;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Embu-Guaçu;29
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;Indaiatuba;25
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;Jacareí;46
+Tosse, Dispneia, Coriza, Outros;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Masculino;SÃO PAULO;Conchal;32
+Dor de Garganta, Dor de Cabeça, Coriza;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Espírito Santo do Pinhal;23
+Coriza;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Valparaíso;27
+Dor de Garganta, Dispneia, Febre, Tosse, Distúrbios Gustativos, Dor de Cabeça, Distúrbios Olfativos, Coriza;Sim;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;São Paulo;40
+Tosse, Dor de Garganta, Outros, Dor de Cabeça;Não;Exame Não Solicitado;null;null;Feminino;SÃO PAULO;São Paulo;33
+Assintomático;Não;Coletado;null;null;Masculino;SÃO PAULO;São Paulo;8
+Assintomático;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Jundiaí;29
+Tosse, Distúrbios Gustativos;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;Várzea Paulista;25
+Outros;Não;Concluído;null;null;Masculino;SÃO PAULO;Araraquara;35
+Dor de Cabeça, Tosse, Febre;Não;Concluído;RT-PCR;Positivo;Masculino;SÃO PAULO;São Paulo;66
+Assintomático;Não;Coletado;TESTE RÁPIDO - ANTICORPO;null;Feminino;SÃO PAULO;Bauru;37
+Febre, Dor de Cabeça, Tosse, Coriza, Outros;Não;null;null;null;Masculino;SÃO PAULO;Guaraçaí;31
+Dor de Garganta, Tosse, Outros, Coriza;Sim;Concluído;RT-PCR;Positivo;Feminino;SÃO PAULO;São Paulo;36
+Dor de Garganta, Dor de Cabeça, Tosse, Coriza;Sim;Coletado;RT-PCR;null;Feminino;SÃO PAULO;Americana;26
+Outros;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Masculino;SÃO PAULO;São Paulo;62
+Assintomático;Não;Coletado;TESTE RÁPIDO - ANTICORPO;null;Feminino;SÃO PAULO;Sertãozinho;55
+Tosse, Dor de Garganta, Dor de Cabeça, Coriza;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Artur Nogueira;21
+Febre, Tosse, Dor de Garganta, Dispneia;Não;Exame Não Solicitado;null;null;Feminino;SÃO PAULO;São Bernardo do Campo;9
+Dor de Garganta, Dispneia, Febre, Tosse, Outros, Dor de Cabeça, Distúrbios Gustativos, Distúrbios Olfativos, Coriza;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Diadema;45
+Dor de Garganta, Febre, Tosse, Outros, Dor de Cabeça;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Masculino;SÃO PAULO;Francisco Morato;8
+Dor de Garganta, Outros, Febre;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;Nova Odessa;44
+Tosse, Outros;Não;Exame Não Solicitado;null;null;Masculino;SÃO PAULO;São Paulo;43
+Tosse;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;São Paulo;48
+Dispneia;Não;Concluído;RT-PCR;Positivo;Masculino;SÃO PAULO;São Paulo;34
+Febre, Dor de Cabeça;Não;Exame Não Solicitado;null;null;Masculino;SÃO PAULO;São Paulo;31
+Distúrbios Gustativos, Tosse, Outros;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;Franca;65
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;Santana de Parnaíba;61
+Dor de Garganta, Dispneia, Tosse, Dor de Cabeça, Coriza;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Santa Bárbara d'Oeste;65
+Tosse, Coriza, Outros;Sim;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Masculino;SÃO PAULO;Taquarituba;39
+Assintomático;Não;Coletado;null;null;Feminino;SÃO PAULO;São Paulo;42
+Dor de Garganta, Febre, Dispneia, Tosse;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;São José do Rio Preto;62
+Dor de Garganta, Dispneia, Tosse, Febre;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;Jundiaí;39
+Dor de Cabeça, Dor de Garganta, Outros;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;São Paulo;22
+Febre, Tosse, Outros;Não;Solicitado;RT-PCR;null;Feminino;SÃO PAULO;Indaiatuba;69
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Masculino;SÃO PAULO;Jacareí;48
+Dor de Cabeça;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;Mogi Guaçu;29
+Tosse, Outros, Coriza;Não;Concluído;RT-PCR;Positivo;Feminino;SÃO PAULO;Jacareí;36
+Dor de Garganta, Febre, Outros;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;São Paulo;40
+Dor de Cabeça, Coriza, Outros;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Masculino;SÃO PAULO;Conchal;24
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;Jacareí;32
+Dor de Garganta, Febre, Coriza;Não;Exame Não Solicitado;null;null;Masculino;SÃO PAULO;Campinas;19
+Dor de Garganta, Tosse, Outros, Coriza;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Cafelândia;14
+Coriza, Febre;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;São Paulo;2
+Tosse, Outros;Não;Solicitado;null;null;Feminino;SÃO PAULO;Ibirarema;18
+Febre, Coriza, Outros;Não;Concluído;RT-PCR;Positivo;Feminino;SÃO PAULO;Lençóis Paulista;49
+Tosse, Febre;Não;Concluído;RT-PCR;Positivo;Feminino;SÃO PAULO;Fernandópolis;50
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Masculino;SÃO PAULO;Jacareí;53
+Tosse, Dor de Cabeça, Febre, Outros;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;São Paulo;17
+Dor de Cabeça, Tosse, Coriza, Dor de Garganta;Não;Solicitado;RT-PCR;null;Masculino;SÃO PAULO;Cerqueira César;24
+Febre, Dor de Garganta, Outros;Não;Exame Não Solicitado;null;null;Feminino;SÃO PAULO;Amparo;37
+Dor de Garganta, Dor de Cabeça, Coriza;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Itatiba;32
+Dor de Garganta, Dor de Cabeça, Distúrbios Gustativos, Distúrbios Olfativos, Coriza, Tosse;Não;Concluído;null;null;Feminino;SÃO PAULO;Cajamar;38
+Tosse, Dor de Cabeça;Não;Concluído;TESTE RÁPIDO - ANTÍGENO;Negativo;Feminino;SÃO PAULO;Cordeirópolis;20
+Tosse;Não;Coletado;TESTE RÁPIDO - ANTICORPO;null;Feminino;SÃO PAULO;São Bernardo do Campo;16
+Tosse, Dor de Garganta;Não;Exame Não Solicitado;null;null;Masculino;SÃO PAULO;São Paulo;30
+Assintomático;Não;null;null;null;Masculino;SÃO PAULO;São Paulo;54
+Dor de Garganta, Dispneia;Não;Exame Não Solicitado;null;null;Feminino;SÃO PAULO;São Paulo;30
+Assintomático;Não;Coletado;null;null;Feminino;SÃO PAULO;Santo André;58
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Masculino;SÃO PAULO;Jacareí;22
+Tosse, Febre, Dor de Cabeça, Outros, Distúrbios Gustativos;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;José Bonifácio;40
+Dor de Cabeça, Febre, Distúrbios Gustativos, Distúrbios Olfativos, Dispneia, Tosse;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;São Paulo;49
+Dor de Cabeça, Outros;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;Santos;61
+Assintomático;Não;Concluído;null;null;Feminino;SÃO PAULO;Sorocaba;46
+Outros;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;São Paulo;47
+Dor de Cabeça, Outros, Tosse, Dor de Garganta;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Campinas;31
+Febre, Tosse, Dor de Garganta, Distúrbios Olfativos, Distúrbios Gustativos;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;São Paulo;36
+Dor de Cabeça, Outros;Não;Solicitado;RT-PCR;null;Masculino;SÃO PAULO;São Paulo;37
+Dor de Garganta, Tosse, Coriza;Sim;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Cândido Mota;47
+Febre, Outros, Coriza;Não;Concluído;RT-PCR;Positivo;Feminino;SÃO PAULO;São Paulo;37
+Coriza, Dor de Cabeça;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Positivo;Feminino;SÃO PAULO;Salto;51
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;Areiópolis;22
+Tosse, Dor de Cabeça;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;São Paulo;80
+Dor de Garganta, Tosse, Dor de Cabeça;Não;Concluído;RT-PCR;Positivo;Masculino;SÃO PAULO;Santo Expedito;25
+Assintomático;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Sertãozinho;23
+Tosse, Dor de Cabeça, Distúrbios Olfativos;Não;Concluído;RT-PCR;Positivo;Feminino;SÃO PAULO;Cordeirópolis;20
+Tosse, Dor de Garganta, Dispneia, Outros;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;São Paulo;23
+Febre, Tosse, Dispneia, Outros, Dor de Garganta;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;São Bernardo do Campo;40
+Tosse;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Pirassununga;50
+Coriza, Outros;Não;Solicitado;null;null;Masculino;SÃO PAULO;Pontalinda;18
+Dor de Garganta, Tosse, Outros;Não;Exame Não Solicitado;null;null;Feminino;SÃO PAULO;Vinhedo;51
+Febre, Dor de Cabeça, Tosse;Não;Concluído;RT-PCR;Positivo;Feminino;SÃO PAULO;Nova Odessa;37
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Masculino;SÃO PAULO;Jacareí;51
+Dor de Cabeça, Dor de Garganta, Dispneia, Tosse, Outros;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Masculino;SÃO PAULO;Osasco;45
+Coriza, Tosse;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Presidente Prudente;59
+Coriza;Não;Concluído;TESTE RÁPIDO - ANTÍGENO;Negativo;Masculino;RIO DE JANEIRO;Rio de Janeiro;59
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Positivo;Masculino;SÃO PAULO;Americana;49
+Dor de Garganta, Tosse;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;Jundiaí;36
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Masculino;SÃO PAULO;Descalvado;62
+Tosse, Coriza, Dor de Cabeça, Dor de Garganta;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;São Paulo;31
+Febre, Tosse, Outros;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;São Paulo;36
+Febre, Coriza;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Santa Rita do Passa Quatro;54
+Dor de Cabeça, Dor de Garganta, Tosse;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;São Paulo;17
+Assintomático;Não;Solicitado;RT-PCR;null;Masculino;SÃO PAULO;São Paulo;20
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Masculino;SÃO PAULO;Areiópolis;29
+Tosse, Febre, Dor de Garganta, Outros;Não;Concluído;RT-PCR;Positivo;Feminino;SÃO PAULO;São Paulo;57
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Positivo;Feminino;SÃO PAULO;Teodoro Sampaio;70
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Masculino;SÃO PAULO;Mogi Guaçu;48
+Outros;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Itanhaém;18
+Febre, Tosse, Outros, Dor de Cabeça;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Valparaíso;31
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Masculino;SÃO PAULO;Jacareí;19
+Tosse, Dor de Garganta, Dispneia, Dor de Cabeça;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Artur Nogueira;16
+Tosse;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Masculino;MINAS GERAIS;Contagem;30
+Tosse;Não;Coletado;TESTE RÁPIDO - ANTICORPO;null;Masculino;SÃO PAULO;Cotia;78
+Assintomático;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Santana de Parnaíba;24
+Febre, Tosse, Dor de Cabeça, Distúrbios Gustativos, Distúrbios Olfativos, Coriza;Não;Concluído;RT-PCR;Positivo;Feminino;SÃO PAULO;Bauru;21
+Distúrbios Gustativos, Distúrbios Olfativos, Dor de Cabeça, Febre, Tosse;Não;Concluído;null;null;Masculino;SÃO PAULO;Serra Azul;34
+Dor de Garganta, Febre;Não;Concluído;TESTE RÁPIDO - ANTÍGENO;Negativo;Masculino;SÃO PAULO;Piracicaba;56
+Dispneia, Febre, Outros;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Masculino;SÃO PAULO;Avaré;26
+Dor de Garganta, Dor de Cabeça, Coriza;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;São José do Rio Preto;35
+Dor de Cabeça, Distúrbios Gustativos, Distúrbios Olfativos, Tosse, Outros;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;Jandira;34
+Distúrbios Olfativos, Distúrbios Gustativos, Tosse, Coriza, Dor de Cabeça;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;Hortolândia;44
+Febre, Tosse;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Santa Bárbara d'Oeste;48
+Dor de Cabeça, Outros;Não;Concluído;TESTE RÁPIDO - ANTÍGENO;Negativo;Feminino;SÃO PAULO;Salto de Pirapora;18
+Dor de Cabeça, Coriza;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Cerqueira César;52
+Dor de Garganta, Febre;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;São Paulo;24
+Febre, Tosse, Dor de Cabeça, Outros;Não;Exame Não Solicitado;null;null;Masculino;SÃO PAULO;Jacareí;40
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Masculino;SÃO PAULO;Mogi Guaçu;48
+Dor de Cabeça, Febre, Tosse;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;Várzea Paulista;46
+Distúrbios Olfativos, Dor de Cabeça, Outros, Distúrbios Gustativos;Não;Concluído;RT-PCR;Positivo;Masculino;SÃO PAULO;São Paulo;26
+Febre, Dor de Cabeça;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;São Paulo;52
+Dor de Garganta, Dor de Cabeça, Outros;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;São Paulo;29
+Dor de Cabeça;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;Araraquara;56
+Dor de Garganta, Dispneia, Tosse, Dor de Cabeça;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;Penápolis;67
+Dor de Cabeça, Distúrbios Gustativos, Outros;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;São Paulo;40
+Assintomático;Não;Concluído;null;null;Masculino;SÃO PAULO;Cosmópolis;42
+Tosse, Febre, Outros;Não;Solicitado;TESTE RÁPIDO - ANTICORPO;null;Masculino;SÃO PAULO;Potirendaba;32
+Tosse, Coriza;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;Taubaté;6
+Tosse, Febre, Coriza;Não;Concluído;;null;Feminino;SÃO PAULO;Jundiaí;0
+Dor de Garganta, Dispneia, Dor de Cabeça;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Masculino;SÃO PAULO;Capela do Alto;32
+Dor de Garganta, Tosse;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Santo Expedito;17
+Tosse, Dor de Cabeça, Coriza;Não;Concluído;RT-PCR;Positivo;Feminino;SÃO PAULO;Itatiba;45
+Febre, Tosse, Outros;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;São Paulo;45
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Masculino;GOIÁS;Rio Verde;31
+Dor de Garganta, Dispneia, Outros;Não;Exame Não Solicitado;null;null;Feminino;SÃO PAULO;Americana;29
+Febre, Tosse, Dor de Cabeça, Outros, Dispneia;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;Catanduva;46
+Dor de Garganta, Tosse, Dor de Cabeça;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;São Paulo;53
+Assintomático;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Avaré;43
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;Santana de Parnaíba;30
+Tosse, Outros, Dor de Cabeça;Não;Concluído;RT-PCR;Positivo;Masculino;SÃO PAULO;Tremembé;49
+Febre, Tosse, Dispneia, Outros;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Campinas;0
+Distúrbios Gustativos, Distúrbios Olfativos, Coriza;Não;Concluído;RT-PCR;Positivo;Masculino;SÃO PAULO;São Paulo;30
+Febre, Tosse, Dor de Cabeça, Distúrbios Gustativos, Outros;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Jacareí;32
+Dor de Garganta;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;Carapicuíba;27
+Febre, Dor de Cabeça, Outros;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;Buritama;41
+Coriza;Não;Concluído;RT-PCR;Positivo;Feminino;SÃO PAULO;Itapetininga;43
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Masculino;SÃO PAULO;Caieiras;10
+Outros;Não;Concluído;Enzimaimunoensaio - ELISA IgM;Negativo;Masculino;SÃO PAULO;Mogi das Cruzes;23
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Masculino;SÃO PAULO;Balbinos;40
+Distúrbios Gustativos, Dor de Cabeça;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;Guarulhos;45
+Dor de Cabeça, Febre;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Masculino;SÃO PAULO;Louveira;27
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTÍGENO;Negativo;Feminino;SÃO PAULO;Osasco;73
+Coriza;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Santa Rita do Passa Quatro;37
+Dor de Cabeça;Não;Concluído;RT-PCR;Positivo;Feminino;SÃO PAULO;Pitangueiras;71
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Positivo;Masculino;SÃO PAULO;Pitangueiras;56
+Distúrbios Gustativos, Distúrbios Olfativos;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;Mogi Guaçu;37
+Assintomático;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;Arujá;55
+Dor de Cabeça, Febre, Outros;Não;null;null;null;Masculino;SÃO PAULO;São Paulo;30
+Febre, Dor de Garganta, Tosse;Não;Concluído;RT-PCR;Positivo;Feminino;SÃO PAULO;São José dos Campos;44
+Assintomático;Não;Exame Não Solicitado;null;null;Masculino;SÃO PAULO;São Bernardo do Campo;45
+Assintomático;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;São Paulo;32
+Assintomático;Não;null;null;null;Feminino;SÃO PAULO;Pedreira;16
+Febre;Não;Concluído;TESTE RÁPIDO - ANTÍGENO;Positivo;Masculino;RIO DE JANEIRO;Rio de Janeiro;44
+Tosse, Dor de Cabeça, Distúrbios Gustativos, Distúrbios Olfativos;Não;Concluído;RT-PCR;Positivo;Feminino;SÃO PAULO;Cordeirópolis;29
+Outros, Febre, Dor de Cabeça, Tosse;Não;Concluído;RT-PCR;Positivo;Feminino;SÃO PAULO;São Paulo;28
+Dor de Garganta, Febre, Tosse, Dor de Cabeça, Coriza;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Morungaba;24
+Outros;Não;Exame Não Solicitado;null;null;Feminino;SÃO PAULO;São Paulo;4
+Coriza;Não;Coletado;null;null;Feminino;SÃO PAULO;São Bernardo do Campo;21
+Dispneia, Tosse;Não;Exame Não Solicitado;null;null;Masculino;SÃO PAULO;São Paulo;39
+Assintomático;Sim;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Masculino;SÃO PAULO;Coronel Macedo;43
+Dor de Garganta, Dispneia, Outros;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Positivo;Feminino;SÃO PAULO;Americana;64
+Dispneia, Febre, Tosse;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;Jales;28
+Dor de Garganta, Febre, Tosse, Outros, Dor de Cabeça, Coriza;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Diadema;60
+Outros, Dispneia;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;São Paulo;27
+Tosse, Febre, Distúrbios Gustativos, Distúrbios Olfativos, Outros, Dor de Cabeça;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;Santos;54
+Dor de Garganta, Tosse, Coriza;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;Sorocaba;38
+Tosse, Outros, Dor de Cabeça, Distúrbios Olfativos;Não;Concluído;RT-PCR;Positivo;Feminino;SÃO PAULO;Tremembé;45
+Dor de Garganta, Febre, Tosse, Dor de Cabeça, Distúrbios Olfativos, Coriza;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;Guatapará;56
+Coriza, Distúrbios Gustativos, Dispneia;Não;Concluído;RT-PCR;Positivo;Feminino;SÃO PAULO;Itapetininga;28
+Dor de Garganta, Dor de Cabeça, Distúrbios Gustativos, Outros;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;São Paulo;51
+Dor de Garganta, Coriza, Febre;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Cerqueira César;21
+Febre, Dor de Garganta, Coriza, Dor de Cabeça;Não;Concluído;TESTE RÁPIDO - ANTÍGENO;Negativo;Masculino;SÃO PAULO;Osasco;45
+Tosse, Febre;Não;null;null;null;Feminino;SÃO PAULO;Campinas;22
+Dor de Garganta, Febre, Tosse, Outros;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;São Paulo;36
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;Itapira;47
+Outros;Não;Concluído;Enzimaimunoensaio - ELISA IgM;Negativo;Feminino;SÃO PAULO;Mogi das Cruzes;27
+Dispneia;Sim;Coletado;RT-PCR;null;Masculino;SÃO PAULO;Guarulhos;30
+Coriza, Dor de Garganta;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Porto Feliz;36
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Positivo;Feminino;SÃO PAULO;Pitangueiras;47
+Dor de Cabeça, Coriza, Tosse, Outros;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;São José do Rio Preto;27
+Tosse, Dor de Garganta, Coriza;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;Americana;33
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;São Paulo;0
+Outros;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;Embu-Guaçu;32
+Outros;Não;Concluído;TESTE RÁPIDO - ANTÍGENO;Negativo;Feminino;SÃO PAULO;São Paulo;21
+Dor de Garganta, Dor de Cabeça, Coriza;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;Franca;59
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;São Roque;22
+Tosse, Dispneia;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;Campinas;59
+Tosse, Dor de Cabeça;Não;Concluído;RT-PCR;Positivo;Feminino;SÃO PAULO;Araçatuba;48
+Assintomático;Não;Solicitado;RT-PCR;null;Feminino;SÃO PAULO;Reginópolis;76
+Dor de Garganta, Outros, Dispneia, Dor de Cabeça, Distúrbios Gustativos, Coriza;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Santa Bárbara d'Oeste;65
+Febre, Tosse, Distúrbios Gustativos, Distúrbios Olfativos;Não;Concluído;RT-PCR;Positivo;Feminino;SÃO PAULO;São Paulo;22
+Tosse, Coriza;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;Araçatuba;37
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Masculino;SÃO PAULO;Areiópolis;48
+Outros;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;São Paulo;40
+Dor de Garganta, Dispneia, Tosse, Dor de Cabeça, Distúrbios Gustativos, Distúrbios Olfativos, Coriza;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Itatiba;41
+Tosse, Dor de Cabeça;Não;Concluído;RT-PCR;Positivo;Feminino;SÃO PAULO;Itapetininga;28
+Tosse, Dor de Cabeça;Não;Solicitado;RT-PCR;null;Masculino;SÃO PAULO;São Paulo;58
+Tosse, Dor de Cabeça, Outros;Sim;Solicitado;RT-PCR;null;Masculino;SÃO PAULO;São Bernardo do Campo;48
+Dor de Garganta, Tosse, Dor de Cabeça;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Macedônia;22
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;Santana de Parnaíba;34
+Dor de Cabeça, Distúrbios Gustativos, Distúrbios Olfativos;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;Carapicuíba;37
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Positivo;Masculino;SÃO PAULO;Guarulhos;34
+Tosse, Dispneia, Dor de Cabeça, Distúrbios Olfativos;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Artur Nogueira;62
+Tosse, Outros;Não;Concluído;RT-PCR;Positivo;Feminino;SÃO PAULO;Tremembé;71
+Dor de Cabeça, Distúrbios Gustativos, Distúrbios Olfativos;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;Lençóis Paulista;33
+Dor de Cabeça, Dor de Garganta, Coriza, Outros;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;Campinas;41
+Assintomático;Não;Exame Não Solicitado;null;null;Masculino;SÃO PAULO;Americana;18
+Tosse, Dor de Cabeça, Distúrbios Gustativos, Coriza;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Macedônia;86
+Dor de Garganta, Tosse, Outros, Dor de Cabeça;Sim;Solicitado;RT-PCR;null;Feminino;SÃO PAULO;Nova Odessa;58
+Dispneia, Outros;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Porto Feliz;73
+Tosse, Febre;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;São Paulo;35
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Masculino;SÃO PAULO;Itapira;32
+Tosse, Dor de Garganta;Não;null;null;null;Feminino;SÃO PAULO;Santa Bárbara d'Oeste;18
+Tosse, Dor de Garganta, Outros;Não;Concluído;RT-PCR;Positivo;Feminino;SÃO PAULO;São Paulo;57
+Dor de Garganta, Tosse, Dor de Cabeça, Coriza, Distúrbios Gustativos, Distúrbios Olfativos;Sim;Concluído;RT-PCR;Positivo;Feminino;SÃO PAULO;Iguape;36
+Febre, Dispneia;Não;Concluído;null;null;Feminino;SÃO PAULO;Jundiaí;18
+Tosse, Distúrbios Olfativos;Não;Concluído;TESTE RÁPIDO - ANTÍGENO;Negativo;Masculino;SÃO PAULO;Santana de Parnaíba;57
+Dor de Cabeça, Distúrbios Gustativos, Distúrbios Olfativos;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;Lençóis Paulista;33
+Assintomático;Não;Concluído;null;null;Masculino;SÃO PAULO;Santo André;41
+Dor de Garganta;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;Piracicaba;56
+Febre, Tosse, Dor de Garganta;Não;Concluído;TESTE RÁPIDO - ANTÍGENO;Positivo;Feminino;SÃO PAULO;Itaquaquecetuba;37
+Dor de Garganta;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;Carapicuíba;35
+Outros;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Masculino;SÃO PAULO;Mogi das Cruzes;34
+Febre, Outros, Coriza;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;José Bonifácio;19
+Dor de Garganta, Dispneia, Tosse, Coriza;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;São Pedro do Turvo;33
+Coriza, Tosse;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;São Paulo;56
+Outros;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;Mogi das Cruzes;47
+Tosse, Outros, Coriza, Dor de Cabeça;Não;Exame Não Solicitado;null;null;Feminino;SÃO PAULO;Amparo;19
+Tosse, Outros, Dor de Garganta;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;São Paulo;39
+Dor de Garganta, Febre, Dor de Cabeça, Distúrbios Gustativos, Distúrbios Olfativos;Sim;Coletado;RT-PCR;null;Masculino;SÃO PAULO;Votorantim;33
+Outros, Dor de Cabeça;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;São Paulo;28
+Tosse, Dispneia, Dor de Cabeça, Coriza;Não;Solicitado;RT-PCR;null;Masculino;SÃO PAULO;São José do Rio Preto;19
+Tosse, Dor de Garganta, Dor de Cabeça;Não;Concluído;RT-PCR;Positivo;Feminino;SÃO PAULO;Itapetininga;47
+Dispneia, Tosse, Distúrbios Gustativos, Coriza;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;São Paulo;56
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;Capivari;26
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;Louveira;40
+Coriza, Distúrbios Gustativos, Distúrbios Olfativos, Outros;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Pirassununga;31
+Assintomático;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Sertãozinho;28
+Febre, Dor de Cabeça, Outros;Não;Concluído;TESTE RÁPIDO - ANTÍGENO;Positivo;Feminino;SÃO PAULO;Sorocaba;26
+Outros;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;Americana;34
+Assintomático;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Cosmópolis;54
+Dor de Garganta, Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;Itatiba;34
+Dor de Garganta, Tosse;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;São Paulo;50
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;Mogi Guaçu;41
+Dor de Garganta, Outros;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Porto Feliz;29
+Dor de Cabeça, Tosse;Sim;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;São José dos Campos;53
+Outros;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;São Paulo;59
+Outros;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;Aparecida;48
+Tosse, Dor de Garganta, Dor de Cabeça, Coriza;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;Promissão;22
+Tosse, Dor de Garganta, Outros;Não;Concluído;RT-PCR;Positivo;Feminino;SÃO PAULO;São Paulo;48
+Dor de Garganta, Tosse, Outros;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;Campinas;47
+Dor de Cabeça, Distúrbios Gustativos, Distúrbios Olfativos;Não;Concluído;RT-PCR;Positivo;Feminino;SÃO PAULO;Tremembé;56
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;Mogi Guaçu;32
+Dispneia, Dor de Cabeça, Outros, Distúrbios Gustativos;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Santa Bárbara d'Oeste;32
+Tosse;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;Tanabi;13
+Febre, Coriza;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;São Paulo;47
+Dor de Garganta, Dispneia, Tosse, Dor de Cabeça;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Dourado;34
+Febre, Outros;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;São Paulo;51
+Tosse, Coriza, Febre;Não;Exame Não Solicitado;null;null;Masculino;SÃO PAULO;Presidente Prudente;1
+Assintomático;Sim;Concluído;TESTE RÁPIDO - ANTICORPO;Positivo;Feminino;SÃO PAULO;Teodoro Sampaio;34
+Dor de Garganta, Outros;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Mogi das Cruzes;55
+Tosse, Dor de Cabeça, Dor de Garganta;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;São Paulo;56
+Outros;Sim;Concluído;TESTE RÁPIDO - ANTÍGENO;Negativo;Feminino;SÃO PAULO;Salto;49
+Dor de Cabeça, Distúrbios Gustativos, Distúrbios Olfativos, Coriza;Não;Concluído;RT-PCR;Positivo;Feminino;SÃO PAULO;Bauru;18
+Febre, Dor de Cabeça, Outros;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;São José do Rio Preto;39
+Febre, Tosse;Não;Concluído;RT-PCR;Positivo;Feminino;SÃO PAULO;Itapetininga;37
+Febre, Coriza, Dispneia, Distúrbios Olfativos, Dor de Cabeça;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Pirassununga;26
+Dor de Garganta, Febre, Tosse;Não;Concluído;RT-PCR;Positivo;Masculino;SÃO PAULO;Santo Expedito;40
+Dor de Garganta, Febre, Tosse;Não;Concluído;Imunoensaio por Eletroquimioluminescência - ECLIA IgG;Negativo;Feminino;SÃO PAULO;Embu-Guaçu;33
+Tosse, Dor de Cabeça, Coriza;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Valparaíso;69
+Assintomático, Outros;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;Avaré;50
+Tosse,Dispneia,Dor de Cabeça,Coriza;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;Santana de Parnaíba;58
+Dor de Cabeça, Febre, Dor de Garganta, Tosse, Coriza;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Cerqueira César;54
+Tosse, Outros, Coriza;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Cafelândia;52
+Assintomático;Sim;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Masculino;SÃO PAULO;Coronel Macedo;43
+Dor de Garganta, Febre, Tosse, Outros, Dor de Cabeça, Coriza;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;Campinas;32
+Outros;Não;Exame Não Solicitado;null;null;Feminino;SÃO PAULO;São Paulo;0
+Assintomático, Coriza;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Masculino;SÃO PAULO;São Paulo;53
+Tosse, Dor de Garganta, Febre, Outros;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;São Paulo;26
+Dor de Cabeça, Coriza;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;José Bonifácio;11
+Tosse, Dor de Cabeça, Coriza;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;São Paulo;68
+Dor de Garganta, Coriza;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;Mauá;37
+Tosse, Dor de Garganta;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Itapetininga;34
+Dor de Cabeça, Distúrbios Gustativos, Distúrbios Olfativos, Tosse;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;São Paulo;47
+Dor de Garganta, Tosse, Dor de Cabeça, Distúrbios Olfativos, Coriza;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Dourado;39
+Febre;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;São Paulo;19
+Tosse, Dor de Garganta, Coriza;Não;Exame Não Solicitado;null;null;Feminino;SÃO PAULO;São Caetano do Sul;59
+Assintomático;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Mairiporã;44
+Tosse, Dor de Garganta, Dor de Cabeça, Coriza;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;Várzea Paulista;26
+Tosse;Não;Exame Não Solicitado;null;null;Feminino;SÃO PAULO;Americana;27
+Dor de Garganta, Outros;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;São José dos Campos;19
+Assintomático;Não;Solicitado;RT-PCR;null;Feminino;SÃO PAULO;Reginópolis;65
+Dor de Cabeça, Dispneia;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;Araraquara;43
+Assintomático, Outros;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;Avaré;68
+Dor de Garganta;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;Mogi Guaçu;41
+Febre, Dor de Cabeça;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Santa Rita do Passa Quatro;32
+Dispneia;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;São Paulo;45
+Febre, Dispneia, Coriza;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;São Paulo;29
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Masculino;SÃO PAULO;Saltinho;36
+Tosse, Outros;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Nova Odessa;23
+Dor de Cabeça, Tosse, Coriza, Distúrbios Olfativos;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;Serra Negra;39
+Dor de Cabeça, Tosse;Não;Exame Não Solicitado;null;null;Masculino;SÃO PAULO;São Bernardo do Campo;30
+Febre, Outros, Coriza, Dor de Cabeça;Não;Concluído;RT-PCR;Positivo;Masculino;SÃO PAULO;Jacareí;38
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Masculino;GOIÁS;Rio Verde;32
+Febre, Tosse, Outros;Não;Concluído;RT-PCR;Positivo;Masculino;SÃO PAULO;São Paulo;27
+Outros, Dor de Cabeça;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;São Bernardo do Campo;37
+Dor de Garganta, Tosse;Não;Coletado;TESTE RÁPIDO - ANTICORPO;null;Feminino;SÃO PAULO;Peruíbe;67
+Dor de Garganta, Febre, Outros, Coriza;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Campinas;47
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;Indaiatuba;21
+Dispneia, Tosse;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Tanabi;37
+Assintomático;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;São Paulo;51
+Dor de Garganta, Febre, Dor de Cabeça, Outros;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Positivo;Feminino;SÃO PAULO;Martinópolis;33
+Outros;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;Mogi das Cruzes;58
+Outros;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;Santo André;57
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;Areiópolis;47
+Assintomático;Não;Concluído;null;null;Feminino;SÃO PAULO;São Paulo;47
+Dor de Garganta, Dispneia, Tosse, Outros, Dor de Cabeça;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;Vitória Brasil;36
+Tosse, Outros;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Masculino;SÃO PAULO;Itatiba;44
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;Mogi Guaçu;31
+Febre, Dor de Garganta, Dispneia, Tosse;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;São José do Rio Pardo;21
+Distúrbios Olfativos, Distúrbios Gustativos, Outros;Não;Concluído;RT-PCR;Positivo;Masculino;SÃO PAULO;Itapetininga;28
+Dor de Garganta, Coriza, Tosse;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Masculino;SÃO PAULO;Nova Granada;35
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;São José do Rio Preto;24
+Dor de Garganta, Tosse, Dor de Cabeça;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Dourado;54
+Coriza;Não;Concluído;TESTE RÁPIDO - ANTÍGENO;Negativo;Masculino;RIO DE JANEIRO;Rio de Janeiro;64
+Dor de Garganta, Outros;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Masculino;SÃO PAULO;Conchal;48
+Dor de Garganta, Tosse, Dor de Cabeça, Coriza;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Santa Bárbara d'Oeste;22
+Dor de Garganta, Dispneia, Febre, Tosse, Dor de Cabeça, Distúrbios Gustativos, Distúrbios Olfativos;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;São Paulo;28
+Tosse, Distúrbios Gustativos, Distúrbios Olfativos, Dispneia;Não;null;null;null;Masculino;SÃO PAULO;São Paulo;41
+Assintomático, Coriza;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;São Paulo;61
+Dor de Cabeça;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Espírito Santo do Pinhal;44
+Tosse, Febre;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;São Paulo;28
+Assintomático;Não;Concluído;null;null;Masculino;SÃO PAULO;Mogi Guaçu;40
+Tosse, Outros;Não;Exame Não Solicitado;null;null;Feminino;SÃO PAULO;Guaíra;19
+Assintomático;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;Guarulhos;48
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Positivo;Masculino;SÃO PAULO;Balbinos;27
+Dor de Garganta, Tosse;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;José Bonifácio;16
+Assintomático;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Sertãozinho;35
+Febre,Dor de Garganta;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;Santana de Parnaíba;40
+Dispneia, Tosse;Não;Concluído;RT-PCR;Positivo;Feminino;SÃO PAULO;Santo André;49
+Dor de Garganta, Dispneia, Febre, Tosse, Dor de Cabeça, Distúrbios Gustativos;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;Itapetininga;56
+Febre, Dispneia, Dor de Garganta;Sim;Concluído;RT-PCR;Positivo;Feminino;SÃO PAULO;São Paulo;41
+Tosse, Outros;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;São Paulo;45
+Dor de Garganta;Não;Coletado;RT-PCR;null;Masculino;BAHIA;Jaguaquara;28
+Dor de Cabeça, Distúrbios Gustativos, Distúrbios Olfativos;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;São Paulo;31
+Dispneia, Dor de Cabeça;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;Santos;22
+Dor de Garganta;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;Elias Fausto;64
+Coriza, Distúrbios Olfativos;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Santa Rita do Passa Quatro;20
+Tosse, Coriza;Não;Concluído;RT-PCR;Positivo;Feminino;SÃO PAULO;Presidente Prudente;67
+Outros, Tosse, Febre, Coriza, Distúrbios Gustativos;Não;Concluído;RT-PCR;Positivo;Masculino;SÃO PAULO;São Paulo;54
+Tosse, Dispneia, Coriza, Outros;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Masculino;SÃO PAULO;Buritama;60
+Dispneia, Dor de Cabeça, Outros;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Dourado;22
+Tosse, Dispneia;Não;Coletado;TESTE RÁPIDO - ANTICORPO;null;Masculino;SÃO PAULO;Cotia;88
+Assintomático;Não;null;null;null;Masculino;SÃO PAULO;Pedreira;33
+Febre, Tosse, Dispneia, Dor de Cabeça, Dor de Garganta;Não;null;null;null;Feminino;SÃO PAULO;Sumaré;49
+Dor de Garganta, Dor de Cabeça;Não;Concluído;RT-PCR;Positivo;Feminino;SÃO PAULO;São Paulo;42
+Dor de Garganta, Outros, Dor de Cabeça;Sim;Coletado;RT-PCR;null;Feminino;SÃO PAULO;São Paulo;39
+Febre, Dispneia, Outros;Sim;Concluído;RT-PCR;Positivo;Feminino;SÃO PAULO;São Paulo;66
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;São Roque;84
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;Pindorama;40
+Dor de Garganta, Dispneia, Febre, Tosse;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;Osasco;20
+Dor de Garganta, Outros, Dor de Cabeça;Não;Concluído;RT-PCR;Positivo;Feminino;SÃO PAULO;Piracicaba;47
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Masculino;SÃO PAULO;São José do Rio Preto;29
+Febre, Coriza, Dor de Cabeça;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;Araraquara;21
+Coriza;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;Dracena;46
+Distúrbios Gustativos, Distúrbios Olfativos, Coriza, Dor de Cabeça, Tosse;Não;Concluído;RT-PCR;Positivo;Feminino;SÃO PAULO;Jacareí;45
+Outros, Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Positivo;Masculino;SÃO PAULO;Francisco Morato;25
+Dor de Cabeça, Coriza;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;São Paulo;54
+Dispneia, Tosse;Não;null;null;null;Masculino;SÃO PAULO;Nova Europa;28
+Outros;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;São Paulo;45
+Dor de Garganta, Febre, Tosse, Dor de Cabeça, Coriza;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Valparaíso;11
+Assintomático;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;São Bernardo do Campo;32
+Tosse, Dor de Garganta, Dispneia, Coriza, Dor de Cabeça;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;Promissão;24
+Assintomático;Sim;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Masculino;SÃO PAULO;Coronel Macedo;39
+Febre, Tosse, Dispneia;Não;Concluído;RT-PCR;Positivo;Masculino;SÃO PAULO;São Paulo;54
+Febre, Dor de Garganta, Tosse, Dor de Cabeça, Coriza;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;São Paulo;56
+Dor de Cabeça;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;São Paulo;66
+Dor de Garganta, Dispneia, Febre, Tosse;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;São Paulo;39
+Dor de Garganta, Febre, Tosse, Outros;Não;Exame Não Solicitado;null;null;Feminino;SÃO PAULO;São Paulo;2
+Dor de Garganta, Tosse, Dor de Cabeça, Coriza;Sim;Coletado;RT-PCR;null;Feminino;SÃO PAULO;Indaiatuba;35
+Febre, Dor de Cabeça, Outros;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;José Bonifácio;17
+Tosse, Dor de Cabeça, Outros, Dor de Garganta;Sim;Coletado;RT-PCR;null;Feminino;SÃO PAULO;São Paulo;31
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Positivo;Feminino;SÃO PAULO;Louveira;64
+Dor de Cabeça, Outros, Dispneia;Não;Concluído;null;null;Masculino;SÃO PAULO;Araraquara;38
+Assintomático;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;São Paulo;48
+Dor de Garganta, Coriza, Dor de Cabeça;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Espírito Santo do Pinhal;13
+Dor de Garganta, Outros;Não;Exame Não Solicitado;null;null;Feminino;SÃO PAULO;Guaíra;37
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Masculino;SÃO PAULO;Santana de Parnaíba;23
+Dor de Garganta, Dispneia, Febre, Dor de Cabeça;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;São Paulo;54
+Dispneia, Outros;Sim;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;São Paulo;41
+Assintomático;Não;Solicitado;RT-PCR;null;Masculino;SÃO PAULO;Reginópolis;79
+Coriza;Não;Concluído;TESTE RÁPIDO - ANTÍGENO;Negativo;Feminino;RIO DE JANEIRO;Rio de Janeiro;54
+Assintomático;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;São Paulo;67
+Dor de Garganta, Dor de Cabeça, Outros;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;Iperó;47
+Assintomático;Não;Concluído;RT-PCR;Positivo;Feminino;SÃO PAULO;Sumaré;24
+Dor de Cabeça;Não;Concluído;TESTE RÁPIDO - ANTÍGENO;Negativo;Feminino;SÃO PAULO;Carapicuíba;50
+Febre, Dor de Garganta, Coriza, Dor de Cabeça, Distúrbios Gustativos, Distúrbios Olfativos, Outros;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Bariri;31
+Dor de Garganta, Outros;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;Mogi das Cruzes;58
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;Barueri;19
+Febre;Não;Coletado;null;null;Masculino;SÃO PAULO;São Paulo;34
+Febre, Tosse, Outros;Não;Concluído;RT-PCR;Positivo;Masculino;SÃO PAULO;São Paulo;66
+Tosse;Não;Concluído;RT-PCR;Positivo;Feminino;SÃO PAULO;São Paulo;46
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;Itapira;47
+Dor de Garganta, Tosse, Coriza, Outros;Não;Solicitado;RT-PCR;null;Feminino;SÃO PAULO;Paulo de Faria;13
+Tosse, Coriza, Outros;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Pirassununga;57
+Febre, Tosse, Dor de Cabeça;Não;null;null;null;Masculino;SÃO PAULO;Barão de Antonina;48
+Assintomático;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Sertãozinho;42
+Dispneia, Tosse, Febre;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;São José dos Campos;24
+Tosse, Febre, Distúrbios Gustativos, Dor de Cabeça, Outros;Não;Coletado;null;null;Masculino;SÃO PAULO;São Paulo;23
+Dor de Cabeça, Febre, Coriza, Outros;Não;null;null;null;Feminino;SÃO PAULO;São Paulo;33
+Tosse, Dor de Garganta, Dispneia;Não;Exame Não Solicitado;null;null;Feminino;SÃO PAULO;Piracaia;8
+Assintomático;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Campinas;27
+Dor de Garganta, Tosse;Sim;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;São Paulo;42
+Tosse, Dor de Cabeça, Outros;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;São José dos Campos;39
+Febre, Tosse, Dor de Garganta, Outros;Sim;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;São Paulo;43
+Coriza, Tosse, Febre, Dor de Garganta, Distúrbios Gustativos, Distúrbios Olfativos;Não;Concluído;null;null;Feminino;SÃO PAULO;Jundiaí;22
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Positivo;Masculino;SÃO PAULO;Balbinos;56
+Assintomático;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Jundiaí;28
+Tosse, Febre, Distúrbios Olfativos, Distúrbios Gustativos, Dor de Cabeça, Coriza;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;São Paulo;38
+Dor de Cabeça, Dispneia, Dor de Garganta, Febre;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;São Paulo;51
+Dor de Garganta, Tosse, Outros;Não;Exame Não Solicitado;null;null;Feminino;SÃO PAULO;Vinhedo;51
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTÍGENO;Negativo;Masculino;SÃO PAULO;Santana de Parnaíba;18
+Assintomático;Não;Coletado;TESTE RÁPIDO - ANTICORPO;null;Feminino;SÃO PAULO;Jaboticabal;55
+Tosse, Dor de Cabeça, Coriza;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;São Paulo;39
+Tosse, Distúrbios Olfativos, Distúrbios Gustativos, Dor de Cabeça, Outros;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;São Paulo;23
+Dor de Garganta, Tosse, Dor de Cabeça;Não;Coletado;null;null;Feminino;SÃO PAULO;São Paulo;40
+Dor de Garganta, Coriza;Sim;Coletado;RT-PCR;null;Feminino;SÃO PAULO;São Paulo;33
+Dor de Garganta, Dor de Cabeça, Coriza, Tosse, Febre, Dispneia;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;Hortolândia;45
+Dor de Garganta, Dispneia, Dor de Cabeça;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Macedônia;47
+Dor de Garganta, Dispneia, Febre;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;Americana;61
+Febre, Tosse, Dor de Garganta, Dispneia, Outros, Coriza, Dor de Cabeça;Não;;RT-PCR;null;Masculino;SÃO PAULO;Itapetininga;51
+Tosse, Febre;Não;Solicitado;TESTE RÁPIDO - ANTICORPO;null;Masculino;SÃO PAULO;Votorantim;28
+Tosse;Não;Concluído;TESTE RÁPIDO - ANTÍGENO;Positivo;Masculino;SÃO PAULO;Fernandópolis;41
+Dispneia, Distúrbios Gustativos, Distúrbios Olfativos;Não;Concluído;RT-PCR;Positivo;Feminino;SÃO PAULO;Descalvado;18
+Dispneia, Distúrbios Olfativos, Distúrbios Gustativos;Não;Concluído;RT-PCR;Positivo;Feminino;SÃO PAULO;Hortolândia;23
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;Mogi Guaçu;41
+Tosse, Outros;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;São Paulo;60
+Dispneia, Tosse, Dor de Garganta, Coriza;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;São Paulo;46
+Assintomático;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;São Bernardo do Campo;11
+Dispneia, Tosse, Outros, Dor de Cabeça;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;Vitória Brasil;29
+Tosse, Outros, Febre;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;São Paulo;23
+Febre, Dispneia;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;São Paulo;52
+Coriza, Tosse, Dor de Garganta;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;Cajamar;8
+Outros, Dor de Cabeça;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;São Paulo;54
+Assintomático;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Campinas;34
+Tosse;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Embu-Guaçu;51
+Distúrbios Olfativos;Não;Solicitado;RT-PCR;null;Feminino;SÃO PAULO;São Paulo;42
+Outros;Não;Concluído;RT-PCR;Positivo;Feminino;SÃO PAULO;São Paulo;44
+Dor de Garganta, Febre;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;Jardinópolis;64
+Tosse, Dispneia, Dor de Cabeça, Febre, Coriza;Sim;Coletado;RT-PCR;null;Feminino;SÃO PAULO;Catanduva;65
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;Santana de Parnaíba;45
+Tosse, Dispneia, Coriza, Outros, Distúrbios Gustativos, Distúrbios Olfativos;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;Lorena;25
+Dor de Garganta, Dispneia, Febre, Tosse, Outros, Distúrbios Gustativos, Distúrbios Olfativos;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Cafelândia;79
+Febre, Tosse, Outros, Dispneia;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;Santos;24
+Distúrbios Gustativos, Outros;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;São Paulo;41
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;GOIÁS;Rio Verde;18
+Febre, Coriza;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;São José dos Campos;65
+Tosse, Outros;Não;null;null;null;Masculino;SÃO PAULO;São Paulo;0
+Dor de Garganta, Febre, Outros;Não;Concluído;TESTE RÁPIDO - ANTÍGENO;Positivo;Masculino;SÃO PAULO;Sorocaba;39
+Febre, Outros, Dor de Cabeça;Não;Concluído;RT-PCR;Positivo;Masculino;SÃO PAULO;Itapetininga;35
+Tosse, Febre, Dor de Cabeça;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;São Paulo;20
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Masculino;SÃO PAULO;Balbinos;30
+Dor de Garganta, Dor de Cabeça, Dispneia;Não;Concluído;RT-PCR;Positivo;Feminino;SÃO PAULO;Nova Odessa;22
+Tosse, Coriza, Dor de Cabeça, Assintomático;Não;Exame Não Solicitado;null;null;Feminino;SÃO PAULO;Americana;11
+Febre, Dor de Garganta, Outros;Não;Solicitado;RT-PCR;null;Masculino;RIO DE JANEIRO;Rio de Janeiro;33
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Positivo;Masculino;SÃO PAULO;Balbinos;45
+Assintomático;Sim;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Masculino;SÃO PAULO;Coronel Macedo;58
+Dispneia, Outros;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Porto Feliz;42
+Tosse, Dor de Garganta;Não;Solicitado;null;null;Feminino;SÃO PAULO;Santo Anastácio;26
+Tosse;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;São José dos Campos;24
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Positivo;Feminino;SÃO PAULO;Guariba;40
+Dor de Cabeça, Dispneia, Tosse, Coriza;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;São Paulo;35
+Dor de Garganta, Dispneia, Febre, Tosse, Outros, Distúrbios Gustativos, Distúrbios Olfativos;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Cafelândia;79
+Coriza, Dor de Cabeça, Dor de Garganta;Não;Solicitado;RT-PCR;null;Feminino;SÃO PAULO;Presidente Alves;68
+Dor de Garganta, Febre, Tosse;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Vargem Grande do Sul;44
+Tosse, Dispneia, Outros;Não;Exame Não Solicitado;null;null;Masculino;SÃO PAULO;Guaíra;51
+Dispneia, Febre, Tosse, Coriza;Sim;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Guarulhos;54
+Assintomático;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;Guarulhos;20
+Dor de Garganta, Tosse, Coriza;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;Guarulhos;46
+Febre, Tosse, Outros;Não;Concluído;TESTE RÁPIDO - ANTÍGENO;Negativo;Masculino;SÃO PAULO;Serra Negra;3
+Outros;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Masculino;SÃO PAULO;São Paulo;56
+Dor de Garganta, Distúrbios Olfativos;Não;Concluído;RT-PCR;Positivo;Feminino;SÃO PAULO;Hortolândia;36
+Dor de Garganta, Febre, Dor de Cabeça;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Valparaíso;23
+Tosse, Coriza;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;Franca;69
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Masculino;SÃO PAULO;Mogi Guaçu;45
+Tosse, Outros;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;São Paulo;24
+Assintomático;Não;Concluído;RT-PCR;Negativo;Feminino;PARANÁ;Maringá;33
+Outros;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;São Paulo;59
+Dor de Garganta, Tosse, Febre, Outros, Dor de Cabeça, Distúrbios Olfativos;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Porto Feliz;31
+Febre, Tosse, Dispneia;Não;Concluído;RT-PCR;Positivo;Masculino;SÃO PAULO;São Paulo;54
+Tosse, Dor de Cabeça, Dispneia;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;Araraquara;41
+Distúrbios Gustativos,Distúrbios Olfativos;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;Mogi Guaçu;47
+Dor de Garganta, Dor de Cabeça, Febre;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;São Paulo;24
+Tosse, Outros;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;São Paulo;33
+Tosse, Febre;Sim;Coletado;RT-PCR;null;Feminino;SÃO PAULO;Guarulhos;46
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;São Paulo;55
+Dor de Garganta, Tosse, Febre, Dor de Cabeça;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Santa Bárbara d'Oeste;29
+Febre, Dor de Garganta, Dor de Cabeça;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Pirassununga;25
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;Areiópolis;21
+Tosse, Coriza;Não;Solicitado;RT-PCR;null;Feminino;SÃO PAULO;Americana;64
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;Taquarituba;38
+Febre, Distúrbios Olfativos;Não;Concluído;RT-PCR;Positivo;Feminino;SÃO PAULO;São Paulo;25
+Coriza, Outros;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;São Paulo;32
+Tosse, Outros;Não;Exame Não Solicitado;null;null;Feminino;SÃO PAULO;São Paulo;18
+Dor de Garganta, Dor de Cabeça, Outros;Não;Concluído;RT-PCR;Positivo;Masculino;SÃO PAULO;Sorocaba;32
+Febre, Tosse, Outros;Não;null;null;null;Feminino;SÃO PAULO;Pedreira;44
+Dor de Garganta, Tosse, Distúrbios Olfativos, Distúrbios Gustativos, Dispneia;Não;Concluído;RT-PCR;Positivo;Feminino;SÃO PAULO;Itapetininga;34
+Coriza, Outros;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Masculino;SÃO PAULO;Araçatuba;61
+Febre;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Masculino;SÃO PAULO;Santana de Parnaíba;22
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Masculino;SÃO PAULO;Itatiba;53
+Outros, Dor de Cabeça, Coriza;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Bady Bassitt;51
+Tosse;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Masculino;SÃO PAULO;Araras;23
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Masculino;SÃO PAULO;Areiópolis;50
+Febre;Não;Concluído;TESTE RÁPIDO - ANTÍGENO;Positivo;Feminino;RIO DE JANEIRO;Rio de Janeiro;30
+Coriza, Tosse, Dor de Garganta, Febre;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;São Paulo;32
+Dor de Cabeça, Outros;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;São Paulo;41
+Tosse, Coriza, Outros;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;Martinópolis;54
+Febre, Tosse, Distúrbios Gustativos, Dor de Cabeça, Outros;Não;Concluído;RT-PCR;Positivo;Feminino;SÃO PAULO;Santo Antônio do Pinhal;56
+Dor de Garganta, Dispneia, Febre, Tosse, Outros;Não;Concluído;RT-PCR;Positivo;Masculino;SÃO PAULO;São Paulo;31
+Outros, Tosse, Dor de Garganta;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;São Paulo;28
+Dor de Garganta, Febre, Dor de Cabeça, Distúrbios Gustativos, Distúrbios Olfativos, Tosse;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;Diadema;32
+Tosse;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Cerqueira César;42
+Dor de Cabeça, Dor de Garganta, Febre;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Masculino;SÃO PAULO;São Paulo;22
+Dor de Garganta, Tosse, Outros;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;Conchal;36
+Dor de Cabeça, Distúrbios Olfativos, Coriza, Outros;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;Valinhos;54
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;Mogi Guaçu;47
+Tosse, Dor de Garganta, Dispneia;Não;null;null;null;Masculino;SÃO PAULO;São Paulo;27
+Coriza, Tosse, Febre, Dispneia;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;São Paulo;30
+Dor de Garganta, Febre, Tosse;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Pedranópolis;17
+Dor de Garganta, Dispneia, Febre, Tosse, Dor de Cabeça;Não;Concluído;RT-PCR;Positivo;Feminino;SÃO PAULO;São Paulo;66
+Tosse, Dor de Cabeça, Outros;Não;Concluído;RT-PCR;Positivo;Masculino;SÃO PAULO;Sumaré;42
+Dor de Garganta, Outros;Não;Solicitado;RT-PCR;null;Feminino;SÃO PAULO;São Paulo;33
+Dor de Cabeça, Tosse, Febre, Distúrbios Olfativos;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;São Paulo;11
+Dispneia, Febre, Coriza;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Vargem Grande do Sul;0
+Coriza, Dor de Garganta, Outros;Sim;Coletado;RT-PCR;null;Masculino;SÃO PAULO;Pindamonhangaba;45
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Masculino;SÃO PAULO;São José do Rio Preto;22
+Coriza;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;Guarulhos;41
+Febre, Tosse, Outros;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Masculino;SÃO PAULO;Osasco;37
+Outros, Tosse;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Positivo;Masculino;SÃO PAULO;Araras;23
+Assintomático;Não;Concluído;null;null;Masculino;SÃO PAULO;Santo André;71
+Dor de Cabeça;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;Fernandópolis;18
+Tosse;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;Suzano;45
+Dor de Garganta, Tosse;Não;Concluído;RT-PCR;Positivo;Feminino;SÃO PAULO;São Paulo;51
+Dor de Garganta, Dor de Cabeça, Distúrbios Gustativos, Distúrbios Olfativos;Não;Concluído;RT-PCR;Positivo;Feminino;SÃO PAULO;São Paulo;36
+Dispneia, Dor de Cabeça, Outros;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Espírito Santo do Pinhal;20
+Tosse, Outros;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Olímpia;34
+Dor de Cabeça, Outros;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;São Bernardo do Campo;21
+Assintomático;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Itupeva;49
+Febre, Dispneia, Dor de Cabeça;Não;null;null;null;Feminino;SÃO PAULO;Nova Europa;48
+Dor de Garganta, Tosse, Dor de Cabeça, Febre;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;São Paulo;23
+Assintomático;Não;Solicitado;RT-PCR;null;Masculino;SÃO PAULO;Reginópolis;74
+Dor de Garganta, Dor de Cabeça;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Macedônia;21
+Dor de Garganta, Tosse, Coriza;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;Avaré;47
+Tosse, Outros, Dor de Garganta, Dor de Cabeça;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;Araçatuba;17
+Dor de Cabeça, Distúrbios Gustativos, Distúrbios Olfativos;Não;Concluído;null;null;Feminino;SÃO PAULO;Jundiaí;39
+Assintomático;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Sertãozinho;25
+Assintomático;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Hortolândia;43
+Dor de Garganta;Não;Concluído;TESTE RÁPIDO - ANTÍGENO;Positivo;Masculino;SÃO PAULO;Franca;62
+Dor de Garganta, Dor de Cabeça, Coriza;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;Meridiano;33
+Tosse, Outros, Dispneia, Distúrbios Olfativos;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;Santos;57
+Dor de Cabeça, Dor de Garganta, Tosse, Outros;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;Presidente Prudente;56
+Dor de Cabeça, Coriza;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;São Paulo;34
+Tosse, Dor de Garganta, Distúrbios Gustativos, Dor de Cabeça, Coriza, Outros;Não;Concluído;RT-PCR;Positivo;Feminino;SÃO PAULO;São Vicente;30
+Tosse;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;Cajamar;32
+Distúrbios Gustativos, Distúrbios Olfativos, Febre, Tosse, Outros;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;São Paulo;31
+Tosse, Dispneia;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;São Paulo;23
+Tosse, Coriza, Dispneia;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;Iperó;26
+Dor de Cabeça, Febre, Outros;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;São Paulo;22
+Tosse, Outros;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;São Bernardo do Campo;14
+Febre, Tosse, Dor de Cabeça;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;São Paulo;28
+Outros;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Campinas;34
+Dispneia;Não;Solicitado;RT-PCR;null;Feminino;SÃO PAULO;Barueri;30
+Dor de Garganta, Dispneia, Febre, Tosse;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;São Paulo;35
+Assintomático;Não;Coletado;TESTE RÁPIDO - ANTICORPO;null;Feminino;SÃO PAULO;Guariba;32
+Febre, Tosse, Dor de Garganta, Dispneia, Outros;Não;Exame Não Solicitado;null;null;Masculino;SÃO PAULO;Guaíra;24
+Tosse, Dor de Garganta;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Masculino;SÃO PAULO;Santo André;32
+Dor de Garganta, Dor de Cabeça, Outros;Sim;Coletado;RT-PCR;null;Feminino;SÃO PAULO;Guarulhos;39
+Febre;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;São Paulo;3
+Febre, Tosse, Coriza, Outros;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;São Carlos;0
+Febre, Tosse;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;São Paulo;24
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;São Roque;44
+Dor de Garganta, Dispneia, Tosse, Coriza;Não;Concluído;TESTE RÁPIDO - ANTÍGENO;Negativo;Feminino;SÃO PAULO;Adamantina;55
+Febre, Coriza;Não;Exame Não Solicitado;null;null;Masculino;SÃO PAULO;São Paulo;48
+Dor de Garganta, Febre, Outros, Dor de Cabeça;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Nova Odessa;43
+Dor de Garganta, Febre, Tosse;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Masculino;SÃO PAULO;Francisco Morato;30
+Dor de Garganta, Tosse;Não;Exame Não Solicitado;null;null;Feminino;SÃO PAULO;Pedra Bela;63
+Febre, Tosse;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;São Paulo;30
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTÍGENO;Negativo;Masculino;SÃO PAULO;Cubatão;56
+Outros, Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Positivo;Feminino;SÃO PAULO;São Paulo;39
+Assintomático;Não;Coletado;TESTE RÁPIDO - ANTICORPO;null;Feminino;SÃO PAULO;Guariba;42
+Dor de Garganta, Tosse;Não;Solicitado;RT-PCR;null;Feminino;SÃO PAULO;Campinas;11
+Tosse, Dor de Garganta, Coriza, Dor de Cabeça, Febre, Dispneia;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;Hortolândia;33
+Dor de Cabeça, Coriza;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;Jundiaí;25
+Tosse, Dor de Cabeça;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;São Paulo;71
+Assintomático;Não;Solicitado;RT-PCR;null;Feminino;SÃO PAULO;Reginópolis;71
+Febre, Tosse, Outros;Não;Exame Não Solicitado;null;null;Feminino;SÃO PAULO;Vinhedo;4
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Masculino;SÃO PAULO;Descalvado;53
+Outros, Assintomático;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;São Paulo;51
+Tosse, Febre, Distúrbios Olfativos;Não;Concluído;RT-PCR;Positivo;Masculino;SÃO PAULO;Cotia;50
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Masculino;SÃO PAULO;Balbinos;37
+Febre, Distúrbios Olfativos, Distúrbios Gustativos, Dor de Garganta;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Presidente Prudente;34
+Dor de Cabeça, Outros;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;São Bernardo do Campo;21
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTÍGENO;Negativo;Feminino;SÃO PAULO;Santo André;63
+Tosse, Outros;Não;null;null;null;Masculino;SÃO PAULO;Poá;55
+Assintomático;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;São Paulo;59
+Dor de Garganta, Dor de Cabeça, Tosse, Outros;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Santa Bárbara d'Oeste;22
+Assintomático;Não;Coletado;null;null;Feminino;SÃO PAULO;Santo André;26
+Outros;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Tanabi;35
+Tosse;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;Mogi das Cruzes;56
+Tosse, Dor de Garganta;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;São Paulo;95
+Tosse, Dor de Garganta, Distúrbios Gustativos, Distúrbios Olfativos, Dor de Cabeça, Outros;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;Jacareí;59
+Febre, Tosse, Dor de Cabeça, Outros;Não;Concluído;RT-PCR;Positivo;Feminino;SÃO PAULO;Lençóis Paulista;32
+Assintomático;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;São José do Rio Preto;40
+Dor de Garganta, Febre, Tosse, Dor de Cabeça, Distúrbios Gustativos, Distúrbios Olfativos;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;Diadema;32
+Dor de Garganta, Outros, Coriza, Dor de Cabeça;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Masculino;SÃO PAULO;Leme;14
+Outros, Tosse, Dor de Garganta, Dor de Cabeça, Distúrbios Gustativos, Distúrbios Olfativos, Coriza;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;Americana;23
+Outros;Não;Solicitado;RT-PCR;null;Feminino;SANTA CATARINA;Palhoça;45
+Febre, Tosse, Dor de Garganta, Dispneia;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;São José do Rio Preto;5
+Distúrbios Gustativos, Distúrbios Olfativos;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;São Paulo;21
+Dor de Cabeça, Febre;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;São Paulo;19
+Tosse, Dor de Cabeça, Coriza;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Guarulhos;62
+Assintomático;Não;Concluído;null;null;Masculino;SÃO PAULO;Santo André;67
+Dor de Garganta,Dor de Cabeça;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Masculino;SÃO PAULO;Turmalina;20
+Dor de Garganta, Tosse, Dor de Cabeça;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Campinas;60
+Coriza, Dor de Cabeça, Outros;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Olímpia;27
+Febre, Tosse, Outros;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Santo André;55
+Tosse, Dor de Cabeça, Dor de Garganta;Não;Concluído;RT-PCR;Positivo;Feminino;SÃO PAULO;Nova Odessa;41
+Dispneia;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;Araraquara;30
+Dor de Cabeça, Coriza, Tosse, Outros;Não;Concluído;TESTE RÁPIDO - ANTÍGENO;Negativo;Feminino;SÃO PAULO;Duartina;26
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Masculino;SÃO PAULO;Balbinos;49
+Dor de Garganta, Febre, Tosse;Não;Concluído;RT-PCR;Positivo;Feminino;SÃO PAULO;Cordeirópolis;50
+Febre, Tosse, Dispneia;Não;Concluído;RT-PCR;Positivo;Masculino;SÃO PAULO;São Paulo;41
+Dor de Garganta, Febre;Não;null;null;null;Masculino;SÃO PAULO;São Paulo;2
+Febre, Tosse;Não;Concluído;null;null;Masculino;SÃO PAULO;Mogi das Cruzes;8
+Febre, Coriza, Outros;Não;Concluído;TESTE RÁPIDO - ANTÍGENO;Positivo;Masculino;SÃO PAULO;Sorocaba;40
+Assintomático;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Campinas;23
+Febre, Tosse, Dispneia, Outros, Distúrbios Olfativos;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;São Paulo;67
+Febre, Tosse, Dor de Garganta, Dor de Cabeça, Coriza;Não;Solicitado;null;null;Masculino;SÃO PAULO;Jales;23
+Assintomático;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Suzano;28
+Tosse, Outros, Dor de Cabeça;Não;Concluído;RT-PCR;Positivo;Feminino;SÃO PAULO;São Paulo;26
+Outros, Dor de Cabeça;Não;Concluído;TESTE RÁPIDO - ANTÍGENO;Positivo;Feminino;SÃO PAULO;Salto de Pirapora;65
+Dor de Garganta, Tosse, Dispneia, Coriza, Dor de Cabeça;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Itapira;52
+Dor de Garganta;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;Araçatuba;66
+Dor de Garganta, Febre, Dor de Cabeça, Outros;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;São Paulo;47
+Outros, Coriza, Tosse, Dor de Garganta, Febre;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Santa Bárbara d'Oeste;60
+Dor de Garganta, Tosse, Coriza;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Bariri;64
+Dor de Cabeça, Coriza, Dor de Garganta, Outros;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;Hortolândia;25
+Dor de Garganta, Coriza, Tosse;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;São Paulo;52
+Febre, Tosse, Dor de Cabeça, Distúrbios Olfativos, Coriza;Não;Solicitado;RT-PCR;null;Feminino;SÃO PAULO;São Paulo;26
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;Mogi Guaçu;48
+Febre, Outros, Distúrbios Gustativos, Coriza;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Campinas;23
+Dispneia, Febre, Tosse, Dor de Cabeça, Distúrbios Gustativos, Coriza;Não;Concluído;RT-PCR;Positivo;Masculino;SÃO PAULO;Campinas;37
+Tosse, Dor de Garganta, Outros;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;São Paulo;24
+Dor de Garganta, Outros, Coriza, Tosse;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Embu-Guaçu;56
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;Santana de Parnaíba;38
+Febre, Distúrbios Olfativos, Distúrbios Gustativos;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Positivo;Masculino;SÃO PAULO;Santo André;25
+Febre, Tosse, Dor de Cabeça, Distúrbios Gustativos, Distúrbios Olfativos, Coriza;Não;Concluído;RT-PCR;Positivo;Feminino;SÃO PAULO;Bauru;21
+Febre, Coriza;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Vargem Grande do Sul;0
+Tosse, Outros;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Olímpia;26
+Tosse, Outros;Não;Concluído;RT-PCR;Positivo;Feminino;SÃO PAULO;Araçatuba;37
+Coriza, Distúrbios Olfativos, Dor de Cabeça;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;São Paulo;39
+Assintomático;Não;Concluído;null;null;Masculino;SÃO PAULO;Santo André;47
+Dor de Garganta, Febre, Distúrbios Gustativos, Distúrbios Olfativos;Não;Concluído;RT-PCR;Positivo;Masculino;SÃO PAULO;São Paulo;25
+Dor de Garganta;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Santo André;48
+Febre, Outros;Não;Concluído;RT-PCR;Positivo;Masculino;SÃO PAULO;São Paulo;35
+Dor de Cabeça, Distúrbios Gustativos, Distúrbios Olfativos, Outros, Dor de Garganta;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;São Paulo;33
+Assintomático;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;São Paulo;19
+Dor de Garganta, Outros;Não;Solicitado;RT-PCR;null;Feminino;SÃO PAULO;São Paulo;15
+Dor de Garganta, Dispneia, Tosse, Dor de Cabeça;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Tanabi;15
+Coriza, Dor de Garganta;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;São Paulo;24
+Dor de Garganta, Febre, Tosse, Coriza, Dor de Cabeça;Não;Concluído;RT-PCR;Positivo;Feminino;SÃO PAULO;Lençóis Paulista;42
+Outros;Não;Concluído;TESTE RÁPIDO - ANTÍGENO;Negativo;Masculino;SÃO PAULO;São Paulo;57
+Assintomático;Não;Solicitado;RT-PCR;null;Masculino;SÃO PAULO;Reginópolis;90
+Tosse;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;São Paulo;29
+Febre, Dor de Cabeça, Dor de Garganta;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;Meridiano;10
+Dor de Cabeça, Distúrbios Gustativos, Distúrbios Olfativos, Outros, Dor de Garganta;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;São Paulo;33
+Coriza, Dor de Cabeça, Outros;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Masculino;SÃO PAULO;Conchal;22
+Dor de Cabeça;Não;Coletado;TESTE RÁPIDO - ANTICORPO;null;Masculino;SÃO PAULO;São Paulo;61
+Dor de Cabeça, Tosse;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;Mogi Guaçu;45
+Dor de Garganta, Febre, Tosse;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;Jardinópolis;60
+Dor de Garganta, Outros;Não;Concluído;TESTE RÁPIDO - ANTÍGENO;Negativo;Feminino;SÃO PAULO;Bauru;28
+Febre, Tosse;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;Severínia;86
+Outros, Dispneia, Tosse;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;São Paulo;17
+Dor de Cabeça, Outros, Coriza;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Positivo;Feminino;SÃO PAULO;Promissão;79
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Positivo;Feminino;SÃO PAULO;Pindorama;19
+Febre, Dispneia, Dor de Cabeça, Outros;Não;Exame Não Solicitado;null;null;Masculino;SÃO PAULO;Americana;26
+Febre, Coriza, Outros, Dor de Cabeça;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;São Paulo;30
+Outros;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;Franca;26
+Dor de Garganta, Dor de Cabeça, Outros, Coriza;Não;Solicitado;null;null;Feminino;PARANÁ;São José dos Pinhais;35
+Tosse, Dispneia, Coriza;Não;Exame Não Solicitado;null;null;Feminino;SÃO PAULO;Amparo;52
+Tosse, Dor de Garganta, Dor de Cabeça;Não;Concluído;RT-PCR;Positivo;Masculino;SÃO PAULO;Nova Odessa;15
+Tosse, Coriza;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Campinas;32
+Febre, Tosse, Dor de Garganta, Dispneia;Sim;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;São Paulo;76
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Masculino;SÃO PAULO;São Roque;40
+Tosse, Distúrbios Olfativos, Distúrbios Gustativos, Coriza;Não;Coletado;null;null;Feminino;SÃO PAULO;São Paulo;21
+Dor de Garganta, Febre;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;São Bernardo do Campo;52
+Tosse, Outros, Dor de Garganta;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;São Paulo;59
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;GOIÁS;Rio Verde;27
+Dor de Garganta, Tosse;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Vargem Grande do Sul;12
+Dor de Cabeça, Coriza, Tosse, Febre, Dor de Garganta;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;São Paulo;36
+Tosse, Outros;Não;null;null;null;Feminino;SÃO PAULO;São Paulo;5
+Tosse, Dispneia, Coriza, Dor de Cabeça, Distúrbios Gustativos, Distúrbios Olfativos;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;Hortolândia;21
+Dor de Garganta, Dispneia;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Santo André;28
+Dor de Garganta;Não;Exame Não Solicitado;null;null;Feminino;SÃO PAULO;Guaíra;22
+Tosse, Coriza, Dor de Cabeça, Dor de Garganta;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;São Paulo;20
+Dor de Garganta;Não;Exame Não Solicitado;null;null;Feminino;SÃO PAULO;São Paulo;25
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Masculino;SÃO PAULO;Bauru;30
+Outros, Dor de Garganta, Dispneia;Sim;Coletado;RT-PCR;null;Feminino;SÃO PAULO;Diadema;28
+Assintomático;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Guarulhos;44
+Dor de Garganta, Dor de Cabeça, Outros;Não;Exame Não Solicitado;null;null;Feminino;SÃO PAULO;Limeira;26
+Assintomático;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;São Paulo;15
+Dor de Garganta, Tosse, Outros;Não;null;null;null;Masculino;SÃO PAULO;Pedreira;35
+Tosse;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;São Paulo;43
+Dor de Cabeça, Tosse, Dispneia, Outros;Não;Concluído;RT-PCR;Positivo;Feminino;SÃO PAULO;São Paulo;31
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Masculino;SÃO PAULO;São Paulo;44
+Dispneia, Outros, Dor de Cabeça;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Nova Odessa;26
+Febre, Tosse, Outros;Não;Concluído;RT-PCR;Positivo;Feminino;SÃO PAULO;Cordeirópolis;67
+Assintomático;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Campinas;25
+Dor de Garganta, Outros, Dor de Cabeça, Coriza;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Jundiaí;42
+Febre, Dor de Cabeça, Dispneia, Distúrbios Gustativos, Distúrbios Olfativos;Não;Concluído;RT-PCR;Positivo;Feminino;SÃO PAULO;Praia Grande;19
+Outros;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Masculino;SÃO PAULO;Franca;46
+Dor de Garganta, Febre, Dor de Cabeça, Tosse, Coriza;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;Taubaté;25
+Febre, Tosse, Dor de Cabeça, Coriza, Outros;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;Igaraçu do Tietê;25
+Dor de Garganta;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;Carapicuíba;23
+Dor de Garganta, Tosse, Coriza, Dispneia;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Pirassununga;52
+Assintomático;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Indaiatuba;60
+Dor de Garganta, Tosse, Dor de Cabeça, Coriza;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Artur Nogueira;40
+Dor de Garganta, Dispneia, Febre, Tosse, Outros, Distúrbios Gustativos, Distúrbios Olfativos;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Masculino;SÃO PAULO;Louveira;32
+Dispneia, Outros, Distúrbios Gustativos;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;São Paulo;17
+Dor de Garganta, Dispneia, Febre;Não;Coletado;TESTE RÁPIDO - ANTICORPO;null;Feminino;SÃO PAULO;Peruíbe;53
+Dor de Garganta;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;Mogi Guaçu;76
+Dor de Cabeça, Outros, Tosse, Coriza, Febre;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Santa Bárbara d'Oeste;46
+Febre, Outros;Não;Solicitado;RT-PCR;null;Feminino;SÃO PAULO;Andradina;28
+Dor de Cabeça, Outros, Distúrbios Gustativos;Sim;Coletado;RT-PCR;null;Feminino;SÃO PAULO;São Paulo;27
+Tosse, Outros, Dor de Cabeça;Não;Concluído;RT-PCR;Positivo;Feminino;SÃO PAULO;Santos;24
+Outros;Não;Exame Não Solicitado;null;null;Feminino;SÃO PAULO;São Paulo;25
+Assintomático;Sim;Solicitado;null;null;Masculino;SÃO PAULO;São Bernardo do Campo;31
+Assintomático;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;São Paulo;48
+Tosse, Febre;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;São Paulo;23
+Tosse, Dor de Garganta;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Mogi das Cruzes;28
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTÍGENO;Negativo;Masculino;SÃO PAULO;São Paulo;35
+Dor de Garganta, Febre, Tosse;Não;Concluído;RT-PCR;Positivo;Feminino;SÃO PAULO;Lençóis Paulista;49
+Dispneia, Febre, Outros;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;São Paulo;20
+Dor de Garganta, Febre, Tosse, Dispneia;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Vargem Grande do Sul;35
+Febre, Tosse, Dor de Cabeça, Outros;Não;Concluído;RT-PCR;Positivo;Masculino;RIO DE JANEIRO;Rio de Janeiro;41
+Tosse, Coriza, Dor de Cabeça, Outros;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;Americana;27
+Dor de Garganta, Dispneia, Febre, Tosse, Coriza;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Jacareí;33
+Febre, Outros;Não;Concluído;RT-PCR;Positivo;Masculino;SÃO PAULO;São Paulo;46
+Tosse, Outros, Dispneia, Distúrbios Gustativos, Distúrbios Olfativos, Coriza;Sim;Concluído;RT-PCR;Positivo;Feminino;SÃO PAULO;Campos do Jordão;59
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Masculino;SÃO PAULO;Taquarituba;32
+Assintomático;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Sumaré;44
+Dispneia, Febre, Dor de Cabeça, Distúrbios Gustativos, Distúrbios Olfativos, Coriza;Não;Exame Não Solicitado;null;null;Masculino;SÃO PAULO;Louveira;61
+Dor de Cabeça, Distúrbios Gustativos, Dor de Garganta, Distúrbios Olfativos, Tosse, Outros;Não;Solicitado;RT-PCR;null;Masculino;SÃO PAULO;Indaiatuba;60
+Outros;Não;Exame Não Solicitado;null;null;Feminino;SÃO PAULO;São Paulo;40
+Tosse, Dor de Cabeça, Coriza;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Paranapanema;29
+Outros, Coriza;Não;Concluído;TESTE RÁPIDO - ANTÍGENO;Positivo;Feminino;SÃO PAULO;Araraquara;59
+Dispneia;Não;null;null;null;Feminino;SÃO PAULO;Barueri;37
+Febre, Distúrbios Gustativos, Distúrbios Olfativos;Não;Concluído;RT-PCR;Positivo;Masculino;SÃO PAULO;Campinas;28
+Febre, Coriza, Dor de Garganta;Não;null;null;null;Feminino;SÃO PAULO;São Paulo;11
+Dor de Garganta, Dispneia, Distúrbios Olfativos, Distúrbios Gustativos, Coriza;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Serra Negra;26
+Dor de Garganta, Febre, Tosse, Dor de Cabeça, Distúrbios Gustativos, Distúrbios Olfativos, Coriza;Não;Solicitado;RT-PCR;null;Masculino;SÃO PAULO;Cajamar;21
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;Itapira;55
+Febre, Tosse, Outros, Dor de Cabeça, Coriza;Não;Concluído;RT-PCR;Positivo;Masculino;SÃO PAULO;Bauru;29
+Tosse, Febre;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;São Paulo;32
+Dor de Garganta, Tosse, Outros;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;São Paulo;20
+Outros;Não;Concluído;RT-PCR;Positivo;Masculino;SÃO PAULO;Piracicaba;21
+Assintomático;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Jundiaí;52
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Masculino;SÃO PAULO;Osasco;36
+Dor de Garganta, Dor de Cabeça, Febre, Outros, Coriza;Não;Concluído;null;null;Feminino;SÃO PAULO;Tupã;25
+Distúrbios Gustativos, Distúrbios Olfativos;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;São Paulo;37
+Dor de Garganta, Tosse;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;Diadema;25
+Coriza, Dor de Garganta, Outros;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Valparaíso;32
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;Caraguatatuba;31
+Dor de Cabeça, Dor de Garganta, Febre, Distúrbios Gustativos, Distúrbios Olfativos;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;Avaré;22
+Febre, Tosse, Dor de Garganta;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;Itupeva;15
+Febre, Dor de Cabeça;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;Campinas;84
+Febre, Tosse, Dor de Cabeça, Outros;Não;Concluído;RT-PCR;Positivo;Feminino;SÃO PAULO;São Paulo;47
+Dor de Garganta, Tosse, Coriza, Distúrbios Olfativos;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Vargem Grande do Sul;20
+Assintomático;Não;Coletado;TESTE RÁPIDO - ANTICORPO;null;Feminino;SÃO PAULO;Guariba;34
+Assintomático, Outros;Sim;Concluído;TESTE RÁPIDO - ANTÍGENO;Negativo;Feminino;SÃO PAULO;Salto;65
+Tosse, Dor de Cabeça, Coriza, Dispneia, Outros;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;Igaraçu do Tietê;35
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Masculino;SÃO PAULO;Balbinos;45
+Outros, Dor de Cabeça, Coriza;Sim;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Vera Cruz;34
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;São José do Rio Preto;27
+Febre, Dor de Garganta, Distúrbios Gustativos, Tosse;Não;Concluído;RT-PCR;Positivo;Feminino;SÃO PAULO;São Paulo;35
+Dispneia, Tosse, Outros;Não;Concluído;null;null;Feminino;SÃO PAULO;Campo Limpo Paulista;24
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Positivo;Masculino;SÃO PAULO;Guarulhos;49
+Assintomático;Não;Concluído;null;null;Masculino;SÃO PAULO;Mogi Guaçu;57
+Tosse, Dor de Cabeça;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Positivo;Masculino;SÃO PAULO;Araras;60
+Dor de Garganta, Dor de Cabeça;Não;Concluído;TESTE RÁPIDO - ANTÍGENO;Positivo;Feminino;SÃO PAULO;Pontal;45
+Dor de Garganta, Distúrbios Gustativos, Distúrbios Olfativos;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;Parapuã;27
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Masculino;SÃO PAULO;Sorocaba;30
+Tosse, Outros, Dor de Cabeça;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Angatuba;26
+Dor de Garganta, Dor de Cabeça;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Sumaré;38
+Febre, Dor de Garganta, Coriza, Dor de Cabeça, Outros;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Pirassununga;48
+Dor de Garganta, Tosse, Coriza;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;São Paulo;39
+Febre, Dor de Garganta, Tosse, Distúrbios Olfativos, Distúrbios Gustativos, Outros, Dispneia, Dor de Cabeça, Coriza;Não;Concluído;RT-PCR;Positivo;Masculino;SÃO PAULO;São Vicente;44
+Dor de Garganta, Tosse, Outros;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;Tremembé;20
+Coriza, Distúrbios Olfativos, Outros, Tosse, Febre, Dor de Garganta;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;Catanduva;47
+Dispneia;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Masculino;SÃO PAULO;Mogi das Cruzes;46
+Dor de Garganta, Coriza, Dor de Cabeça;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;São José dos Campos;19
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;São José do Rio Preto;31
+Tosse, Dor de Cabeça;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;São Paulo;63
+Assintomático;Não;Concluído;null;null;Masculino;SÃO PAULO;Marília;29
+Dispneia;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Itapira;35
+Dor de Garganta;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Campinas;35
+Tosse;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;Cajamar;31
+Tosse, Coriza;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;São Paulo;22
+Febre, Dor de Garganta, Tosse, Outros;Não;Coletado;RT-PCR;null;Feminino;MATO GROSSO;Rondonópolis;23
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Positivo;Masculino;SÃO PAULO;Pindorama;62
+Febre, Dispneia, Dor de Cabeça, Coriza;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Pirassununga;48
+Dor de Garganta, Tosse, Coriza;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;Mogi Guaçu;21
+Tosse, Dor de Cabeça;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;São Paulo;54
+Dispneia, Outros, Dor de Cabeça, Coriza;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;Barbosa;35
+Febre, Outros, Dor de Cabeça;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Tremembé;27
+Tosse, Dor de Cabeça, Coriza;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Vista Alegre do Alto;50
+Febre, Dor de Cabeça, Distúrbios Gustativos, Distúrbios Olfativos, Coriza, Outros;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;Penápolis;55
+Tosse;Não;Concluído;TESTE RÁPIDO - ANTÍGENO;Negativo;Masculino;SÃO PAULO;Lençóis Paulista;36
+Dor de Garganta, Dor de Cabeça;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Campinas;48
+Tosse, Dor de Garganta;Não;Exame Não Solicitado;null;null;Feminino;SÃO PAULO;Louveira;36
+Assintomático;Sim;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;Taquarituba;42
+Coriza, Dor de Cabeça, Outros;Não;Solicitado;RT-PCR;null;Masculino;SÃO PAULO;São Bernardo do Campo;29
+Dor de Garganta, Tosse, Dor de Cabeça, Distúrbios Gustativos, Distúrbios Olfativos;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;Promissão;21
+Febre, Outros;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Santo Antônio do Pinhal;45
+Dor de Garganta, Dor de Cabeça;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Santa Bárbara d'Oeste;37
+Tosse, Dor de Cabeça, Outros, Coriza;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;Guarulhos;50
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Masculino;SÃO PAULO;São Paulo;8
+Assintomático;Não;Coletado;TESTE RÁPIDO - ANTICORPO;null;Feminino;SÃO PAULO;São Paulo;62
+Febre;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;Rio Grande da Serra;30
+Dor de Garganta, Febre, Tosse, Dor de Cabeça, Coriza;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;Santa Lúcia;40
+Dor de Garganta, Febre;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;São José do Rio Preto;20
+Tosse, Dor de Garganta, Dor de Cabeça, Coriza;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Vargem Grande do Sul;19
+Coriza, Dor de Cabeça;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;São Paulo;25
+Febre, Outros, Dor de Cabeça;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;São Paulo;70
+Tosse;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Positivo;Feminino;SÃO PAULO;Mauá;21
+Dor de Garganta, Febre, Coriza;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Campinas;32
+Dor de Garganta, Tosse, Dispneia, Febre, Distúrbios Gustativos, Distúrbios Olfativos, Outros;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Itapira;40
+Tosse, Dor de Garganta;Não;Exame Não Solicitado;null;null;Feminino;SÃO PAULO;Bragança Paulista;51
+Outros;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Mogi das Cruzes;36
+Dor de Garganta, Febre, Tosse, Dor de Cabeça;Não;Solicitado;RT-PCR;null;Feminino;SÃO PAULO;São Paulo;30
+Febre, Tosse;Não;Concluído;TESTE RÁPIDO - ANTÍGENO;Positivo;Masculino;SÃO PAULO;Pontal;40
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Masculino;SÃO PAULO;Areiópolis;46
+Outros;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;Sumaré;37
+Tosse, Coriza;Não;Exame Não Solicitado;null;null;Feminino;SÃO PAULO;Águas de Lindóia;8
+Dor de Garganta, Dor de Cabeça;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;São Paulo;44
+Dor de Garganta, Tosse, Febre, Outros;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;Conchal;19
+Febre, Tosse, Dispneia;Não;null;null;null;Masculino;SÃO PAULO;São Paulo;24
+Outros, Dispneia, Tosse, Febre;Não;null;null;null;Feminino;SÃO PAULO;Mogi das Cruzes;24
+Dor de Garganta, Outros;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Embu-Guaçu;25
+Dor de Garganta;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;Cravinhos;39
+Dispneia, Febre, Dor de Cabeça, Outros;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;Francisco Morato;49
+Dor de Garganta, Tosse, Dor de Cabeça, Distúrbios Gustativos, Distúrbios Olfativos;Sim;Concluído;TESTE RÁPIDO - ANTICORPO;Positivo;Feminino;SÃO PAULO;São Miguel Arcanjo;27
+Dor de Garganta, Tosse, Coriza;Não;Exame Não Solicitado;null;null;Feminino;SÃO PAULO;São Caetano do Sul;52
+Outros;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;São Paulo;25
+Assintomático;Sim;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;Campinas;25
+Tosse, Dor de Garganta, Febre;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;São Paulo;43
+Outros, Dor de Cabeça, Coriza;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Bady Bassitt;53
+Assintomático;Não;Solicitado;RT-PCR;null;Masculino;SÃO PAULO;Reginópolis;65
+Dor de Cabeça, Tosse, Coriza;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;São José dos Campos;43
+Tosse, Febre, Dispneia;Não;Coletado;null;null;Masculino;SÃO PAULO;São Paulo;24
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;Laranjal Paulista;43
+Outros, Dispneia;Não;Concluído;RT-PCR;Positivo;Masculino;SÃO PAULO;São Paulo;46
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Positivo;Masculino;SÃO PAULO;Guarulhos;46
+Febre, Tosse, Dispneia;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Santo André;23
+Dor de Garganta, Tosse, Outros;Não;null;null;null;Masculino;SÃO PAULO;Pedreira;54
+Assintomático;Não;Coletado;TESTE RÁPIDO - ANTICORPO;null;Masculino;SÃO PAULO;Osvaldo Cruz;42
+Dor de Garganta, Febre, Outros, Dor de Cabeça, Coriza;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;São Paulo;36
+Assintomático;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Barueri;41
+Tosse, Coriza, Dor de Cabeça, Outros;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;São Paulo;68
+Febre, Outros;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Palestina;45
+Dispneia, Outros, Dor de Cabeça, Distúrbios Olfativos;Não;Concluído;RT-PCR;Positivo;Masculino;SÃO PAULO;Jundiaí;42
+Tosse;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;Guarulhos;26
+Outros;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Mogi das Cruzes;25
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Masculino;SÃO PAULO;São Roque;32
+Outros;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;São José do Rio Preto;46
+Tosse, Outros;Não;Concluído;RT-PCR;Positivo;Masculino;SÃO PAULO;Caconde;50
+Dor de Garganta, Tosse, Dor de Cabeça, Coriza;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Espírito Santo do Pinhal;69
+Tosse, Dor de Garganta, Dispneia, Coriza, Dor de Cabeça, Outros;Não;Concluído;TESTE RÁPIDO - ANTÍGENO;Positivo;Feminino;SÃO PAULO;Araraquara;57
+Febre, Tosse, Coriza;Não;Solicitado;null;null;Feminino;SÃO PAULO;Jundiaí;1
+Tosse, Dor de Garganta, Distúrbios Gustativos, Outros;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Santo André;25
+Dor de Garganta;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;Carapicuíba;45
+Dispneia, Outros;Não;;null;null;Masculino;SÃO PAULO;Itapetininga;11
+Dor de Garganta, Febre, Dispneia, Dor de Cabeça, Distúrbios Gustativos, Outros;Não;Concluído;RT-PCR;Positivo;Feminino;SÃO PAULO;Lençóis Paulista;35
+Dor de Garganta, Febre, Tosse, Dor de Cabeça;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Masculino;SÃO PAULO;Francisco Morato;65
+Dor de Garganta, Febre, Tosse, Outros;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;Penápolis;44
+Outros;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Campinas;32
+Dor de Garganta, Febre, Tosse, Dor de Cabeça;Não;Concluído;TESTE RÁPIDO - ANTÍGENO;Negativo;Masculino;SÃO PAULO;Orlândia;33
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Masculino;SÃO PAULO;Cabreúva;59
+Febre, Tosse, Coriza;Não;Concluído;null;null;Feminino;SÃO PAULO;Tupã;2
+Dor de Garganta, Dispneia, Outros, Coriza;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Taubaté;60
+Febre, Tosse, Coriza;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;São José dos Campos;11
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Masculino;SÃO PAULO;Americana;40
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;Osasco;37
+Tosse, Coriza;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Nova Odessa;49
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;Guarulhos;18
+Dor de Garganta, Tosse;Sim;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Jacareí;28
+Coriza;Não;Coletado;TESTE RÁPIDO - ANTICORPO;null;Masculino;SÃO PAULO;São Paulo;25
+Tosse, Dor de Garganta;Não;Concluído;TESTE RÁPIDO - ANTÍGENO;Negativo;Masculino;SÃO PAULO;Várzea Paulista;39
+Febre, Tosse;Não;Exame Não Solicitado;null;null;Feminino;SÃO PAULO;São Paulo;9
+Dor de Garganta, Dor de Cabeça, Outros;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;São Paulo;60
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Positivo;Masculino;SÃO PAULO;Balbinos;52
+Tosse;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;São Paulo;30
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Positivo;Masculino;SÃO PAULO;Campos do Jordão;33
+Outros;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Mogi das Cruzes;49
+Dor de Garganta;Não;Solicitado;RT-PCR;null;Masculino;SÃO PAULO;Araçatuba;27
+Assintomático;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Guarulhos;24
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;Santana de Parnaíba;42
+Assintomático;Sim;Solicitado;null;null;Feminino;SÃO PAULO;São Bernardo do Campo;62
+Assintomático;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;São Paulo;92
+Febre, Tosse, Coriza, Dor de Cabeça, Outros;Sim;Coletado;RT-PCR;null;Feminino;SÃO PAULO;Americana;40
+Dor de Cabeça;Não;null;null;null;Masculino;SÃO PAULO;Campinas;50
+Dor de Garganta, Tosse;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Santo André;28
+Dor de Garganta, Tosse, Outros;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;Francisco Morato;36
+Febre, Dor de Garganta, Outros;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Pirassununga;9
+Tosse, Dor de Cabeça;Não;Concluído;TESTE RÁPIDO - ANTÍGENO;Negativo;Masculino;SÃO PAULO;Várzea Paulista;39
+Assintomático;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Lorena;34
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;Piracicaba;33
+Tosse;Não;Concluído;RT-PCR;Positivo;Feminino;SÃO PAULO;Caçapava;33
+Tosse, Outros;Não;Concluído;null;null;Masculino;SÃO PAULO;Franca;63
+Dor de Cabeça, Coriza, Distúrbios Olfativos, Dispneia;Sim;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Artur Nogueira;49
+Dor de Garganta, Dispneia, Tosse, Outros, Dor de Cabeça;Não;Concluído;RT-PCR;Positivo;Feminino;SÃO PAULO;Santos;61
+Dor de Garganta, Dispneia, Coriza, Dor de Cabeça;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Itararé;36
+Febre, Tosse, Dor de Garganta;Não;Concluído;RT-PCR;Positivo;Feminino;SÃO PAULO;Caconde;67
+Dor de Garganta, Coriza;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Cordeirópolis;35
+Dispneia, Febre, Outros, Coriza;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;São Paulo;23
+Distúrbios Olfativos, Distúrbios Gustativos;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;Lorena;34
+Tosse;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Masculino;SÃO PAULO;Mogi Guaçu;12
+Dor de Garganta, Febre, Tosse, Dor de Cabeça, Distúrbios Gustativos, Coriza;Não;Concluído;RT-PCR;Positivo;Feminino;SÃO PAULO;Monte Mor;30
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;Laranjal Paulista;27
+Dispneia, Febre, Dor de Cabeça, Outros;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Espírito Santo do Pinhal;22
+Dispneia, Tosse, Outros, Dor de Cabeça;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;São Paulo;26
+Febre, Tosse, Distúrbios Olfativos, Distúrbios Gustativos, Coriza;Não;Coletado;null;null;Feminino;SÃO PAULO;São Bernardo do Campo;29
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTÍGENO;Negativo;Feminino;SÃO PAULO;São Paulo;5
+Dor de Garganta;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;São Paulo;19
+Tosse;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;Santana de Parnaíba;26
+Outros;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Masculino;SÃO PAULO;São Paulo;31
+Assintomático;Não;Solicitado;RT-PCR;null;Masculino;SÃO PAULO;Reginópolis;71
+Febre, Tosse, Dor de Garganta;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;São Paulo;24
+Outros;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;São Paulo;52
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Masculino;SÃO PAULO;Pindorama;37
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Positivo;Masculino;SÃO PAULO;Guarulhos;38
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;Areiópolis;71
+Distúrbios Gustativos, Distúrbios Olfativos;Não;Concluído;RT-PCR;Positivo;Masculino;SÃO PAULO;Sorocaba;33
+Febre, Tosse, Dor de Cabeça, Outros, Coriza, Distúrbios Gustativos, Distúrbios Olfativos, Dispneia, Dor de Garganta;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Santa Bárbara d'Oeste;34
+Dor de Garganta, Febre, Tosse, Dor de Cabeça;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;São Paulo;30
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Masculino;SÃO PAULO;Nova Aliança;48
+Febre,Tosse,Dor de Garganta;Sim;Concluído;RT-PCR;Inconclusivo ou Indeterminado;Feminino;SÃO PAULO;São Paulo;38
+Outros;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Masculino;SÃO PAULO;Mogi das Cruzes;39
+Coriza, Tosse, Distúrbios Olfativos, Dor de Cabeça, Outros;Não;Concluído;RT-PCR;Positivo;Masculino;SÃO PAULO;São Paulo;29
+Dor de Garganta, Dispneia, Tosse, Coriza, Dor de Cabeça, Outros;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;São José dos Campos;33
+Tosse, Dor de Garganta, Dor de Cabeça, Outros;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Campinas;40
+Dor de Garganta, Tosse, Coriza;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;Avaré;41
+Febre, Tosse;Não;Concluído;RT-PCR;Positivo;Masculino;SÃO PAULO;Itapetininga;35
+Tosse, Dispneia, Distúrbios Gustativos, Coriza;Não;Concluído;RT-PCR;Positivo;Masculino;SÃO PAULO;Jacareí;16
+Outros;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;São Paulo;31
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTÍGENO;Negativo;Feminino;SÃO PAULO;Guarulhos;36
+Tosse, Dispneia;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;São Paulo;47
+Distúrbios Gustativos, Distúrbios Olfativos;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;Jandira;25
+Dor de Garganta, Tosse, Outros;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Sumaré;34
+Outros, Febre, Tosse, Dor de Cabeça;Não;Concluído;RT-PCR;Positivo;Masculino;SÃO PAULO;Presidente Prudente;24
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;Santana de Parnaíba;50
+Dispneia, Febre, Tosse, Outros;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Positivo;Masculino;SÃO PAULO;Águas de Lindóia;52
+Dor de Garganta, Tosse;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;Guarulhos;39
+Dor de Garganta, Dor de Cabeça;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;Pindorama;20
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTÍGENO;Positivo;Feminino;SÃO PAULO;Tupã;67
+Distúrbios Gustativos, Distúrbios Olfativos;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;São Paulo;19
+Tosse, Outros, Dor de Cabeça, Coriza;Não;Concluído;RT-PCR;Positivo;Masculino;SÃO PAULO;Bauru;29
+Dispneia, Outros;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Masculino;SÃO PAULO;Martinópolis;66
+Dor de Garganta, Tosse, Distúrbios Gustativos, Distúrbios Olfativos, Coriza;Não;Concluído;RT-PCR;Positivo;Feminino;SÃO PAULO;Descalvado;26
+Dor de Garganta, Dispneia, Febre, Tosse, Outros, Distúrbios Gustativos, Distúrbios Olfativos, Coriza;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Artur Nogueira;13
+Dor de Cabeça, Dor de Garganta, Coriza;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Cerqueira César;37
+Tosse;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;São José do Rio Preto;31
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Positivo;Masculino;SÃO PAULO;Balbinos;52
+Febre, Dor de Cabeça, Distúrbios Gustativos, Outros;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Pirassununga;27
+Assintomático;Não;Concluído;null;null;Feminino;SÃO PAULO;Guararema;48
+Dor de Cabeça, Distúrbios Gustativos, Tosse, Dispneia, Coriza;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;São Paulo;34
+Coriza;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Tupi Paulista;64
+Tosse, Dor de Garganta, Dor de Cabeça, Coriza, Outros;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Campinas;44
+Febre, Dispneia;Não;Coletado;;null;Masculino;SÃO PAULO;Embu das Artes;73
+Febre, Dor de Cabeça;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;São Paulo;19
+Tosse, Dor de Cabeça, Distúrbios Gustativos, Distúrbios Olfativos;Não;Solicitado;null;null;Feminino;SÃO PAULO;Campinas;24
+Assintomático;Não;Concluído;null;null;Masculino;SÃO PAULO;Piacatu;54
+Dispneia, Coriza, Tosse, Distúrbios Olfativos, Distúrbios Gustativos;Não;Concluído;RT-PCR;Positivo;Masculino;SÃO PAULO;Hortolândia;55
+Tosse, Dor de Cabeça;Não;Solicitado;RT-PCR;null;Feminino;SÃO PAULO;São Paulo;34
+Outros;Não;Concluído;RT-PCR;Positivo;Feminino;SÃO PAULO;São Paulo;65
+Dor de Garganta, Tosse, Dor de Cabeça, Coriza;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;Jundiaí;24
+Febre, Tosse, Coriza;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;São José dos Campos;0
+Distúrbios Gustativos, Distúrbios Olfativos, Dor de Cabeça;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;São Paulo;18
+Dor de Cabeça, Dor de Garganta, Tosse, Coriza;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;GOIÁS;Rio Verde;25
+Dor de Garganta, Tosse, Dor de Cabeça, Outros;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Itapira;32
+Outros;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;São Paulo;18
+Dor de Garganta, Febre;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Sumaré;45
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;São Roque;37
+Dispneia, Outros;Não;;null;null;Masculino;SÃO PAULO;Itapetininga;48
+Febre, Tosse;Não;null;null;null;Masculino;SÃO PAULO;Pedreira;21
+Outros, Assintomático;Não;Concluído;null;null;Feminino;SÃO PAULO;Marília;25
+Assintomático;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Positivo;Masculino;SÃO PAULO;Balbinos;67
+Outros;Sim;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Mogi das Cruzes;43
+Assintomático;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;São José do Rio Preto;39
+Assintomático;Não;Coletado;TESTE RÁPIDO - ANTICORPO;null;Feminino;SÃO PAULO;Bebedouro;58
+Febre, Tosse;Não;Exame Não Solicitado;null;null;Feminino;SÃO PAULO;São Paulo;0
+Distúrbios Gustativos, Distúrbios Olfativos, Dor de Cabeça, Outros;Não;Concluído;null;null;Masculino;SÃO PAULO;Serra Azul;29
+Assintomático;Não;Concluído;null;null;Feminino;SÃO PAULO;São Paulo;49
+Dor de Cabeça, Distúrbios Gustativos, Distúrbios Olfativos;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;São Paulo;32
+Dor de Garganta, Dor de Cabeça, Outros, Tosse;Sim;Concluído;RT-PCR;Positivo;Feminino;SÃO PAULO;Itapecerica da Serra;43
+Tosse, Outros;Não;Concluído;TESTE RÁPIDO - ANTÍGENO;Negativo;Feminino;SÃO PAULO;Adamantina;47
+Dor de Garganta, Outros;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;São Paulo;25
+Tosse, Dor de Cabeça, Outros;Não;Solicitado;RT-PCR;null;Masculino;CEARÁ;Quixelô;36
+Dor de Garganta, Tosse;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Caconde;57
+Dor de Garganta;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Masculino;SÃO PAULO;Piedade;25
+Febre,Dor de Cabeça;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;Santana de Parnaíba;37
+Dor de Garganta, Tosse;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Masculino;SÃO PAULO;São Bernardo do Campo;26
+Febre, Dor de Garganta, Distúrbios Gustativos, Distúrbios Olfativos;Não;Exame Não Solicitado;null;null;Feminino;SÃO PAULO;Campinas;20
+Assintomático;Não;Concluído;null;null;Feminino;SÃO PAULO;Guarulhos;41
+Dor de Garganta, Tosse, Outros;Não;Coletado;TESTE RÁPIDO - ANTICORPO;null;Feminino;SÃO PAULO;Peruíbe;45
+Tosse, Dor de Cabeça, Distúrbios Gustativos;Não;Exame Não Solicitado;null;null;Feminino;SÃO PAULO;Vargem;52
+Dor de Garganta, Febre, Tosse, Coriza;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;Pindamonhangaba;43
+Outros, Dor de Garganta;Não;null;null;null;Feminino;SÃO PAULO;São Paulo;16
+Outros, Tosse, Dor de Garganta;Não;Coletado;RT-PCR;null;Feminino;SÃO PAULO;Rio Claro;69
+Dor de Garganta, Dor de Cabeça, Coriza, Dispneia, Distúrbios Olfativos, Tosse, Febre;Não;Coletado;RT-PCR;null;Masculino;SÃO PAULO;Bauru;65
+Tosse, Dor de Garganta, Outros;Não;Concluído;RT-PCR;Negativo;Masculino;SÃO PAULO;São Paulo;26
+Tosse, Dispneia, Dor de Cabeça;Não;Concluído;RT-PCR;Negativo;Feminino;SÃO PAULO;Campinas;44
+Dispneia, Dor de Cabeça, Outros;Não;Concluído;TESTE RÁPIDO - ANTICORPO;Negativo;Feminino;SÃO PAULO;Mogi Guaçu;43
