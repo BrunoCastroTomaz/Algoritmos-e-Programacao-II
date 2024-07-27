@@ -1,0 +1,6 @@
+arquivo = open('arquivo-texto.txt', 'r')
+linha = arquivo.readline().rstrip()
+print(linha)
+linha = arquivo.readline()
+print(linha)
+arquivo.close()

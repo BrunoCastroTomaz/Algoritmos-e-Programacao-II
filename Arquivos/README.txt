@@ -1,0 +1,1 @@
+Praticando leitura de arquivos em Python
